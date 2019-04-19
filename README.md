@@ -7,10 +7,10 @@
 - [x] [AccessChk](https://docs.microsoft.com/en-us/sysinternals/downloads/accesschk)
 - [x] [AccessEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
 - [x] [AdExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
+- [x] [AdInsight](https://docs.microsoft.com/en-us/sysinternals/downloads/adinsight)
 
 TODO:
 
-- [ ] [AdInsight](https://docs.microsoft.com/en-us/sysinternals/downloads/adinsight)
 - [ ] [AdRestore](https://docs.microsoft.com/en-us/sysinternals/downloads/adrestore)
 - [ ] [Autologon](https://docs.microsoft.com/en-us/sysinternals/downloads/autologon)
 - [ ] [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
