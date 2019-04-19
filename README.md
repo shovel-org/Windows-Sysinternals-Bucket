@@ -21,10 +21,10 @@
 - [x] [DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
 - [x] [Desktops](https://docs.microsoft.com/en-us/sysinternals/downloads/desktops)
 - [x] [Disk2vhd](https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd)
+- [x] [DiskExt](https://docs.microsoft.com/en-us/sysinternals/downloads/diskext)
 
 ## TODO
 
-- [ ] [DiskExt](https://docs.microsoft.com/en-us/sysinternals/downloads/diskext)
 - [ ] [DiskMon](https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon)
 - [ ] [DiskView](https://docs.microsoft.com/en-us/sysinternals/downloads/diskview)
 - [ ] [Disk Usage (DU)](https://docs.microsoft.com/en-us/sysinternals/downloads/du)
