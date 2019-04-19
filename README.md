@@ -16,10 +16,10 @@
 - [x] [CacheSet](https://docs.microsoft.com/en-us/sysinternals/downloads/cacheset)
 - [x] [ClockRes](https://docs.microsoft.com/en-us/sysinternals/downloads/clockres)
 - [x] [Contig](https://docs.microsoft.com/en-us/sysinternals/downloads/contig)
+- [x] [Coreinfo](https://docs.microsoft.com/en-us/sysinternals/downloads/coreinfo)
 
 ## TODO
 
-- [ ] [Coreinfo](https://docs.microsoft.com/en-us/sysinternals/downloads/coreinfo)
 - [ ] [Ctrl2Cap](https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap)
 - [ ] [DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
 - [ ] [Desktops](https://docs.microsoft.com/en-us/sysinternals/downloads/desktops)
