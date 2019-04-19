@@ -1,23 +1,34 @@
 {
-    "New Sysinternals program": {
+    "New Sysinternals manifest": {
         "prefix": "sysMan",
         "scope": "json,jsonc",
         "body": [
             "{",
-            "\t\"version\": \"$1\",",
-            "\t\"description\": \"$2\",",
-            "\t\"homepage\": \"$3\",",
+            "\t\"version\": \"\",",
+            "\t\"description\": \"${TM_FILENAME_BASE}. $1\",",
+            "\t\"homepage\": \"https://docs.microsoft.com/en-us/sysinternals/downloads/${TM_FILENAME_BASE/(.*)/${1:/downcase}/}\",",
             "\t\"license\": {",
             "\t\t\"identifier\": \"Freeware\",",
             "\t\t\"url\": \"https://docs.microsoft.com/en-us/sysinternals/license-terms\"",
             "\t},",
-            "\t\"url\": \"$4\",",
-            "\t\"hash\": \"$5\",",
-            "\t\"checkver\": \"$6\",",
+            "\t\"url\": \"${2:https://download.sysinternals.com/files/${TM_FILENAME_BASE}.zip}\",",
+            "\t\"hash\": \"somedefaulthash\",",
+            "\t\"checkver\": \"${TM_FILENAME_BASE}\\\\\\s+v([\\\\\\d\\\\\\.]+)</h1\",",
             "\t\"autoupdate\": {",
-            "\t\t\"url\": \"$4\"",
+            "\t\t\"url\": \"$2\"",
             "\t}",
             "}",
+        ],
+    },
+    "New sysinternals shortcut": {
+        "prefix": "sysShort",
+        "scope": "json,jsonc",
+        "body": [
+            "[",
+            "\t\"${TM_FILENAME_BASE}.exe\",",
+            "\t\"SysInternals/${TM_FILENAME_BASE}\",",
+            "\t\"/accepteula\"",
+            "]",
         ],
     },
     "New app String": {

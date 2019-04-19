@@ -1,6 +1,6 @@
 {
     "version": "6.12",
-    "description": "Display what kind of accesses specific users or groups have to resources including files, directories, Registry keys, global objects and Windows services.",
+    "description": "AccessChk. Display what kind of accesses specific users or groups have to resources including files, directories, Registry keys, global objects and Windows services.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/accesschk",
     "license": {
         "identifier": "Freeware",
@@ -22,7 +22,7 @@
             "bin": "accesschk.exe"
         }
     },
-    "checkver": "AccessChk v([\\d\\.]+)</h1",
+    "checkver": "AccessChk\\s+v([\\d\\.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/AccessChk.zip"
     }

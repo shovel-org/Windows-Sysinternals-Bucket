@@ -5,12 +5,10 @@
 ## Available manifests
 
 - [x] [AccessChk](https://docs.microsoft.com/en-us/sysinternals/downloads/accesschk)
+- [x] [AccessEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
 
 TODO:
 
-- [ ] [Sysinternals-Suite]
-- [ ] [Sysinternals-Suite-Nano]
-- [ ] [AccessEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
 - [ ] [AdExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
 - [ ] [AdInsight](https://docs.microsoft.com/en-us/sysinternals/downloads/adinsight)
 - [ ] [AdRestore](https://docs.microsoft.com/en-us/sysinternals/downloads/adrestore)
@@ -83,3 +81,5 @@ TODO:
 - [ ] [WhoIs](https://docs.microsoft.com/en-us/sysinternals/downloads/whois)
 - [ ] [WinObj](https://docs.microsoft.com/en-us/sysinternals/downloads/winobj)
 - [ ] [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+- [ ] [Sysinternals-Suite]
+- [ ] [Sysinternals-Suite-Nano]
