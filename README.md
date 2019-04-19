@@ -13,10 +13,10 @@
 - [x] [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 - [x] [BgInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo)
 - [x] [BlueScreen](https://docs.microsoft.com/en-us/sysinternals/downloads/bluescreen)
+- [x] [CacheSet](https://docs.microsoft.com/en-us/sysinternals/downloads/cacheset)
 
 ## TODO
 
-- [ ] [CacheSet](https://docs.microsoft.com/en-us/sysinternals/downloads/cacheset)
 - [ ] [ClockRes](https://docs.microsoft.com/en-us/sysinternals/downloads/clockres)
 - [ ] [Contig](https://docs.microsoft.com/en-us/sysinternals/downloads/contig)
 - [ ] [Coreinfo](https://docs.microsoft.com/en-us/sysinternals/downloads/coreinfo)

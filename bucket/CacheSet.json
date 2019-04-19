@@ -1,0 +1,23 @@
+{
+    "version": "1.0",
+    "description": "CacheSet. Manipulate the working-set parameters of the system file cache.",
+    "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/cacheset",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
+    },
+    "url": "https://download.sysinternals.com/files/CacheSet.zip",
+    "hash": "22a22155867227c8fc75bbd6030c50a2e31908c6478804848b244843cc133ca3",
+    "bin": "Cacheset.exe",
+    "shortcuts": [
+        [
+            "Cacheset.exe",
+            "SysInternals/CacheSet",
+            "/accepteula"
+        ]
+    ],
+    "checkver": "CacheSet\\s+v([\\d\\.]+)</h1",
+    "autoupdate": {
+        "url": "https://download.sysinternals.com/files/CacheSet.zip"
+    }
+}
