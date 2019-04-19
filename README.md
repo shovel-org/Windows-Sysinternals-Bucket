@@ -20,10 +20,10 @@
 - [x] [Ctrl2Cap](https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap)
 - [x] [DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
 - [x] [Desktops](https://docs.microsoft.com/en-us/sysinternals/downloads/desktops)
+- [x] [Disk2vhd](https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd)
 
 ## TODO
 
-- [ ] [Disk2vhd](https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd)
 - [ ] [DiskExt](https://docs.microsoft.com/en-us/sysinternals/downloads/diskext)
 - [ ] [DiskMon](https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon)
 - [ ] [DiskView](https://docs.microsoft.com/en-us/sysinternals/downloads/diskview)
