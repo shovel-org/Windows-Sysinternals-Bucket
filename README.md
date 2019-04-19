@@ -18,10 +18,10 @@
 - [x] [Contig](https://docs.microsoft.com/en-us/sysinternals/downloads/contig)
 - [x] [Coreinfo](https://docs.microsoft.com/en-us/sysinternals/downloads/coreinfo)
 - [x] [Ctrl2Cap](https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap)
+- [x] [DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
 
 ## TODO
 
-- [ ] [DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
 - [ ] [Desktops](https://docs.microsoft.com/en-us/sysinternals/downloads/desktops)
 - [ ] [Disk2vhd](https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd)
 - [ ] [DiskExt](https://docs.microsoft.com/en-us/sysinternals/downloads/diskext)
