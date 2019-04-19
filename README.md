@@ -22,12 +22,12 @@
 - [x] [Desktops](https://docs.microsoft.com/en-us/sysinternals/downloads/desktops)
 - [x] [Disk2vhd](https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd)
 - [x] [DiskExt](https://docs.microsoft.com/en-us/sysinternals/downloads/diskext)
+- [x] [DiskMon](https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon)
 
 ## TODO
 
-- [ ] [DiskMon](https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon)
-- [ ] [DiskView](https://docs.microsoft.com/en-us/sysinternals/downloads/diskview)
 - [ ] [Disk Usage (DU)](https://docs.microsoft.com/en-us/sysinternals/downloads/du)
+- [ ] [DiskView](https://docs.microsoft.com/en-us/sysinternals/downloads/diskview)
 - [ ] [EFSDump](https://docs.microsoft.com/en-us/sysinternals/downloads/efsdump)
 - [ ] [FindLinks](https://docs.microsoft.com/en-us/sysinternals/downloads/findlinks)
 - [ ] [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)
