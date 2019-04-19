@@ -10,10 +10,10 @@
 - [x] [AdInsight](https://docs.microsoft.com/en-us/sysinternals/downloads/adinsight)
 - [x] [AdRestore](https://docs.microsoft.com/en-us/sysinternals/downloads/adrestore)
 - [x] [Autologon](https://docs.microsoft.com/en-us/sysinternals/downloads/autologon)
+- [x] [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 
-TODO:
+## TODO
 
-- [ ] [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 - [ ] [BgInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo)
 - [ ] [BlueScreen](https://docs.microsoft.com/en-us/sysinternals/downloads/bluescreen)
 - [ ] [CacheSet](https://docs.microsoft.com/en-us/sysinternals/downloads/cacheset)

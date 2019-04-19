@@ -1,0 +1,47 @@
+{
+    "version": "13.94",
+    "description": "Autoruns. Shows what programs are configured to run during system bootup or login, and when various built-in Windows applications like Internet Explorer, Explorer and media players are started.",
+    "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
+    },
+    "url": "https://download.sysinternals.com/files/Autoruns.zip",
+    "hash": "55377afa1d96c4e64b4d4c486f4ce910ddcff5a2e2f3c6ddb35183c830a61ff7",
+    "architecture": {
+        "64bit": {
+            "bin": [
+                "autorunsc64.exe",
+                [
+                    "autorunsc64.exe",
+                    "autorunsc"
+                ],
+                [
+                    "autorunsc64.exe",
+                    "autoruns"
+                ]
+            ],
+            "shortcuts": [
+                [
+                    "Autoruns64.exe",
+                    "SysInternals/Autoruns",
+                    "/accepteula"
+                ]
+            ]
+        },
+        "32bit": {
+            "bin": "Autoruns.exe",
+            "shortcuts": [
+                [
+                    "Autoruns.exe",
+                    "SysInternals/Autoruns",
+                    "/accepteula"
+                ]
+            ]
+        }
+    },
+    "checkver": "Autoruns for Windows\\s+v([\\d\\.]+)</h1",
+    "autoupdate": {
+        "url": "https://download.sysinternals.com/files/Autoruns.zip"
+    }
+}
