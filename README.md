@@ -24,10 +24,10 @@
 - [x] [DiskExt](https://docs.microsoft.com/en-us/sysinternals/downloads/diskext)
 - [x] [DiskMon](https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon)
 - [x] [DiskView](https://docs.microsoft.com/en-us/sysinternals/downloads/diskview)
+- [ ] [Disk Usage (DU)](https://docs.microsoft.com/en-us/sysinternals/downloads/du)
 
 ## TODO
 
-- [ ] [Disk Usage (DU)](https://docs.microsoft.com/en-us/sysinternals/downloads/du)
 - [ ] [EFSDump](https://docs.microsoft.com/en-us/sysinternals/downloads/efsdump)
 - [ ] [FindLinks](https://docs.microsoft.com/en-us/sysinternals/downloads/findlinks)
 - [ ] [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)
