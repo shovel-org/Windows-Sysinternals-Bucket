@@ -1,4 +1,25 @@
 {
+    "New Sysinternals program": {
+        "prefix": "sysMan",
+        "scope": "json,jsonc",
+        "body": [
+            "{",
+            "\t\"version\": \"$1\",",
+            "\t\"description\": \"$2\",",
+            "\t\"homepage\": \"$3\",",
+            "\t\"license\": {",
+            "\t\t\"identifier\": \"Freeware\",",
+            "\t\t\"url\": \"https://docs.microsoft.com/en-us/sysinternals/license-terms\"",
+            "\t},",
+            "\t\"url\": \"$4\",",
+            "\t\"hash\": \"$5\",",
+            "\t\"checkver\": \"$6\",",
+            "\t\"autoupdate\": {",
+            "\t\t\"url\": \"$4\"",
+            "\t}",
+            "}",
+        ],
+    },
     "New app String": {
         "prefix": "app",
         "scope": "json,jsonc",

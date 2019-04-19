@@ -2,11 +2,14 @@
 
 `scoop bucket add Sysinternals 'https://github.com/Ash258/Scoop-Sysinternals.git'`
 
+## Available manifests
+
+- [x] [AccessChk](https://docs.microsoft.com/en-us/sysinternals/downloads/accesschk)
+
 TODO:
 
 - [ ] [Sysinternals-Suite]
 - [ ] [Sysinternals-Suite-Nano]
-- [ ] [AccessChk](https://docs.microsoft.com/en-us/sysinternals/downloads/accesschk)
 - [ ] [AccessEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
 - [ ] [AdExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
 - [ ] [AdInsight](https://docs.microsoft.com/en-us/sysinternals/downloads/adinsight)
