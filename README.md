@@ -15,10 +15,10 @@
 - [x] [BlueScreen](https://docs.microsoft.com/en-us/sysinternals/downloads/bluescreen)
 - [x] [CacheSet](https://docs.microsoft.com/en-us/sysinternals/downloads/cacheset)
 - [x] [ClockRes](https://docs.microsoft.com/en-us/sysinternals/downloads/clockres)
+- [x] [Contig](https://docs.microsoft.com/en-us/sysinternals/downloads/contig)
 
 ## TODO
 
-- [ ] [Contig](https://docs.microsoft.com/en-us/sysinternals/downloads/contig)
 - [ ] [Coreinfo](https://docs.microsoft.com/en-us/sysinternals/downloads/coreinfo)
 - [ ] [Ctrl2Cap](https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap)
 - [ ] [DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
