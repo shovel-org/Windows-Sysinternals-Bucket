@@ -28,7 +28,7 @@
 - [x] [EFSDump](https://docs.microsoft.com/en-us/sysinternals/downloads/efsdump)
 - [x] [FindLinks](https://docs.microsoft.com/en-us/sysinternals/downloads/findlinks)
 - [x] [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)
-- [ ] [Hex2dec](https://docs.microsoft.com/en-us/sysinternals/downloads/hex2dec)
+- [x] [Hex2dec](https://docs.microsoft.com/en-us/sysinternals/downloads/hex2dec)
 - [ ] [Junction](https://docs.microsoft.com/en-us/sysinternals/downloads/junction)
 - [ ] [LDMDump](https://docs.microsoft.com/en-us/sysinternals/downloads/ldmdump)
 - [ ] [ListDLLs](https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls)
