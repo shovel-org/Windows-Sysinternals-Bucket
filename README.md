@@ -27,7 +27,7 @@
 - [x] [Disk Usage (DU)](https://docs.microsoft.com/en-us/sysinternals/downloads/du)
 - [x] [EFSDump](https://docs.microsoft.com/en-us/sysinternals/downloads/efsdump)
 - [x] [FindLinks](https://docs.microsoft.com/en-us/sysinternals/downloads/findlinks)
-- [ ] [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)
+- [x] [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)
 - [ ] [Hex2dec](https://docs.microsoft.com/en-us/sysinternals/downloads/hex2dec)
 - [ ] [Junction](https://docs.microsoft.com/en-us/sysinternals/downloads/junction)
 - [ ] [LDMDump](https://docs.microsoft.com/en-us/sysinternals/downloads/ldmdump)
