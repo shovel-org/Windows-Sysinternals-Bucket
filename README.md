@@ -44,7 +44,7 @@
 - [x] [PipeList](https://docs.microsoft.com/en-us/sysinternals/downloads/pipelist)
 - [x] [PortMon](https://docs.microsoft.com/en-us/sysinternals/downloads/portmon)
 - [x] [ProcDump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump)
-- [ ] [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+- [x] [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [ ] [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
 - [ ] [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
 - [ ] [PsFile](https://docs.microsoft.com/en-us/sysinternals/downloads/psfile)
