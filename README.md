@@ -31,7 +31,7 @@
 - [x] [Hex2dec](https://docs.microsoft.com/en-us/sysinternals/downloads/hex2dec)
 - [x] [Junction](https://docs.microsoft.com/en-us/sysinternals/downloads/junction)
 - [x] [LDMDump](https://docs.microsoft.com/en-us/sysinternals/downloads/ldmdump)
-- [ ] [ListDLLs](https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls)
+- [x] [ListDLLs](https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls)
 - [ ] [LiveKd](https://docs.microsoft.com/en-us/sysinternals/downloads/livekd)
 - [ ] [LoadOrder](https://docs.microsoft.com/en-us/sysinternals/downloads/loadorder)
 - [ ] [LogonSessions](https://docs.microsoft.com/en-us/sysinternals/downloads/logonsessions)
