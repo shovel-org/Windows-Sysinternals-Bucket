@@ -32,7 +32,8 @@
 - [x] [Junction](https://docs.microsoft.com/en-us/sysinternals/downloads/junction)
 - [x] [LDMDump](https://docs.microsoft.com/en-us/sysinternals/downloads/ldmdump)
 - [x] [ListDLLs](https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls)
-- [ ] [LiveKd](https://docs.microsoft.com/en-us/sysinternals/downloads/livekd)
+- [x] [LiveKd](https://docs.microsoft.com/en-us/sysinternals/downloads/livekd)
+    - [ ] Depends on <https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/index>
 - [ ] [LoadOrder](https://docs.microsoft.com/en-us/sysinternals/downloads/loadorder)
 - [ ] [LogonSessions](https://docs.microsoft.com/en-us/sysinternals/downloads/logonsessions)
 - [ ] [MoveFile](https://docs.microsoft.com/en-us/sysinternals/downloads/movefile)
