@@ -29,7 +29,7 @@
 - [x] [FindLinks](https://docs.microsoft.com/en-us/sysinternals/downloads/findlinks)
 - [x] [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)
 - [x] [Hex2dec](https://docs.microsoft.com/en-us/sysinternals/downloads/hex2dec)
-- [ ] [Junction](https://docs.microsoft.com/en-us/sysinternals/downloads/junction)
+- [x] [Junction](https://docs.microsoft.com/en-us/sysinternals/downloads/junction)
 - [ ] [LDMDump](https://docs.microsoft.com/en-us/sysinternals/downloads/ldmdump)
 - [ ] [ListDLLs](https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls)
 - [ ] [LiveKd](https://docs.microsoft.com/en-us/sysinternals/downloads/livekd)
