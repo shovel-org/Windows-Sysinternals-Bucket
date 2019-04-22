@@ -38,7 +38,7 @@
 - [x] [LogonSessions](https://docs.microsoft.com/en-us/sysinternals/downloads/logonsessions)
 - [x] [MoveFile](https://docs.microsoft.com/en-us/sysinternals/downloads/movefile)
 - [x] [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault)
-- [ ] [NTFSInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/ntfsinfo)
+- [x] [NTFSInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/ntfsinfo)
 - [ ] [PageDefrag](https://docs.microsoft.com/en-us/sysinternals/downloads/pagedefrag)
 - [ ] [PendMoves](https://docs.microsoft.com/en-us/sysinternals/downloads/pendmoves)
 - [ ] [PipeList](https://docs.microsoft.com/en-us/sysinternals/downloads/pipelist)
