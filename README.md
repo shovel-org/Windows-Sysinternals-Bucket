@@ -40,7 +40,7 @@
 - [x] [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault)
 - [x] [NTFSInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/ntfsinfo)
 - [ ] [PageDefrag](https://docs.microsoft.com/en-us/sysinternals/downloads/pagedefrag)
-- [ ] [PendMoves](https://docs.microsoft.com/en-us/sysinternals/downloads/pendmoves)
+- [x] [PendMoves](https://docs.microsoft.com/en-us/sysinternals/downloads/pendmoves)
 - [ ] [PipeList](https://docs.microsoft.com/en-us/sysinternals/downloads/pipelist)
 - [ ] [PortMon](https://docs.microsoft.com/en-us/sysinternals/downloads/portmon)
 - [ ] [ProcDump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump)
