@@ -42,7 +42,7 @@
 - [x] [PageDefrag](https://docs.microsoft.com/en-us/sysinternals/downloads/pagedefrag)
 - [x] [PendMoves](https://docs.microsoft.com/en-us/sysinternals/downloads/pendmoves)
 - [x] [PipeList](https://docs.microsoft.com/en-us/sysinternals/downloads/pipelist)
-- [ ] [PortMon](https://docs.microsoft.com/en-us/sysinternals/downloads/portmon)
+- [x] [PortMon](https://docs.microsoft.com/en-us/sysinternals/downloads/portmon)
 - [ ] [ProcDump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump)
 - [ ] [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [ ] [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
