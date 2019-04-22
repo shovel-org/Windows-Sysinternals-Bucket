@@ -39,7 +39,7 @@
 - [x] [MoveFile](https://docs.microsoft.com/en-us/sysinternals/downloads/movefile)
 - [x] [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault)
 - [x] [NTFSInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/ntfsinfo)
-- [ ] [PageDefrag](https://docs.microsoft.com/en-us/sysinternals/downloads/pagedefrag)
+- [x] [PageDefrag](https://docs.microsoft.com/en-us/sysinternals/downloads/pagedefrag)
 - [x] [PendMoves](https://docs.microsoft.com/en-us/sysinternals/downloads/pendmoves)
 - [ ] [PipeList](https://docs.microsoft.com/en-us/sysinternals/downloads/pipelist)
 - [ ] [PortMon](https://docs.microsoft.com/en-us/sysinternals/downloads/portmon)
