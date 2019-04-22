@@ -36,7 +36,7 @@
     - [ ] Depends on <https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/index>
 - [x] [LoadOrder](https://docs.microsoft.com/en-us/sysinternals/downloads/loadorder)
 - [x] [LogonSessions](https://docs.microsoft.com/en-us/sysinternals/downloads/logonsessions)
-- [ ] [MoveFile](https://docs.microsoft.com/en-us/sysinternals/downloads/movefile)
+- [x] [MoveFile](https://docs.microsoft.com/en-us/sysinternals/downloads/movefile)
 - [ ] [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault)
 - [ ] [NTFSInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/ntfsinfo)
 - [ ] [PageDefrag](https://docs.microsoft.com/en-us/sysinternals/downloads/pagedefrag)
