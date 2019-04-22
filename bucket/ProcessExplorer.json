@@ -1,6 +1,6 @@
 {
     "version": "16.22",
-    "description": "Process Explorer. Shows information about which handles and DLLs processes have opened or loaded.",
+    "description": "Process Explorer. Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer",
     "license": {
         "identifier": "Freeware",

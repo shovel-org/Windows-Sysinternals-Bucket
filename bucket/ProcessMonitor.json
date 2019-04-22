@@ -1,0 +1,23 @@
+{
+    "version": "3.50",
+    "description": "ProcessMonitor. Monitor file system, Registry, process, thread and DLL activity in real-time.",
+    "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/procmon",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
+    },
+    "url": "https://download.sysinternals.com/files/ProcessMonitor.zip",
+    "hash": "3a0ce29f1654468a470d8b4e0f5f163a428ddab7bf0ea37b0cef504362cb94dd",
+    "bin": "Procmon.exe",
+    "shortcuts": [
+        [
+            "Procmon.exe",
+            "SysInternals/ProcessMonitor",
+            "/accepteula"
+        ]
+    ],
+    "checkver": "Process Monitor\\s+v([\\d\\.]+)</h1",
+    "autoupdate": {
+        "url": "https://download.sysinternals.com/files/ProcessMonitor.zip"
+    }
+}
