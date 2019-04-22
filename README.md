@@ -46,7 +46,7 @@
 - [x] [ProcDump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump)
 - [x] [ProcessExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [x] [ProcessMonitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
-- [ ] [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
+- [x] [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
 - [ ] [PsFile](https://docs.microsoft.com/en-us/sysinternals/downloads/psfile)
 - [ ] [PsGetSid](https://docs.microsoft.com/en-us/sysinternals/downloads/psgetsid)
 - [ ] [PsInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/psinfo)
