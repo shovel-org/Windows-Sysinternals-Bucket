@@ -1,5 +1,5 @@
 {
-    "version": "4.81",
+    "version": "4.90",
     "description": "DebugView. Monitor debug output on your local system, or any computer on the network that you can reach via TCP/IP.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/debugview",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/DebugView.zip",
-    "hash": "98edbe8d5e10d8c81f91c1d79668df8dd3924abd6bb64e3450613c43bf0c60f6",
+    "hash": "c3e53d67cd8179aff3ca690e39cd2287d9199bc99254df3e9d87e162b0faba9e",
     "bin": "Dbgview.exe",
     "shortcuts": [
         [
