@@ -1,5 +1,5 @@
 {
-    "version": "2019.April.4",
+    "version": "2019.April.23",
     "description": "Bundle of utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/SysinternalsSuite.zip",
-    "hash": "d90022b1c15c1c9b3c307da19027f1824449bcc55f09b6bcb62c86446248adef",
+    "hash": "8ad0f7fe1a83c42caf8b8d7a36c8be173dd3a127d7f39acced38a3cc9836bb70",
     "checkver": {
         "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite",
         "regex": "Updated:\\s*(\\w+)\\s+(\\d+),\\s+(\\d+)",
