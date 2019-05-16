@@ -64,7 +64,7 @@
 - [x] [RegDelNull](https://docs.microsoft.com/en-us/sysinternals/downloads/regdelnull)
 - [x] [RegHide](https://docs.microsoft.com/en-us/sysinternals/downloads/reghide)
 - [x] [RegJump](https://docs.microsoft.com/en-us/sysinternals/downloads/regjump)
-- [ ] [Registry Usage (RU)](https://docs.microsoft.com/en-us/sysinternals/downloads/ru)
+- [x] [Registry Usage (RU)](https://docs.microsoft.com/en-us/sysinternals/downloads/ru)
 - [ ] [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
 - [ ] [ShareEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/shareenum)
 - [ ] [ShellRunas](https://docs.microsoft.com/en-us/sysinternals/downloads/shellrunas)
