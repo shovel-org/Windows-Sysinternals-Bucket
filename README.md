@@ -62,7 +62,7 @@
 - [ ] [PsTools](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
 - [ ] [RAMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
 - [x] [RegDelNull](https://docs.microsoft.com/en-us/sysinternals/downloads/regdelnull)
-- [ ] [RegHide](https://docs.microsoft.com/en-us/sysinternals/downloads/reghide)
+- [x] [RegHide](https://docs.microsoft.com/en-us/sysinternals/downloads/reghide)
 - [ ] [RegJump](https://docs.microsoft.com/en-us/sysinternals/downloads/regjump)
 - [ ] [Registry Usage (RU)](https://docs.microsoft.com/en-us/sysinternals/downloads/ru)
 - [ ] [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
