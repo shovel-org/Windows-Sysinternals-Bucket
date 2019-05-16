@@ -69,7 +69,7 @@
 - [x] [ShareEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/shareenum)
 - [x] [ShellRunas](https://docs.microsoft.com/en-us/sysinternals/downloads/shellrunas)
 - [x] [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck)
-- [ ] [Streams](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
+- [x] [Streams](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
 - [ ] [Strings](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
 - [ ] [Sync](https://docs.microsoft.com/en-us/sysinternals/downloads/sync)
 - [ ] [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon)
