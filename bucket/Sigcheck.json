@@ -1,0 +1,29 @@
+{
+    "version": "2.72",
+    "description": "Sigcheck. Shows file version number, timestamp information, and digital signature details, including certificate chains.",
+    "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
+    },
+    "url": "https://download.sysinternals.com/files/Sigcheck.zip",
+    "hash": "3a5a0b1ba03ba7dc6f271394f01d1488baabfd775bccb2f7a4bcd772392f397f",
+    "architecture": {
+        "64bit": {
+            "bin": [
+                "sigcheck64.exe",
+                [
+                    "sigcheck64.exe",
+                    "sigcheck"
+                ]
+            ]
+        },
+        "32bit": {
+            "bin": "sigcheck.exe"
+        }
+    },
+    "checkver": "Sigcheck\\s+v([\\d\\.]+)</h1",
+    "autoupdate": {
+        "url": "https://download.sysinternals.com/files/Sigcheck.zip"
+    }
+}

@@ -68,7 +68,7 @@
 - [x] [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
 - [x] [ShareEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/shareenum)
 - [x] [ShellRunas](https://docs.microsoft.com/en-us/sysinternals/downloads/shellrunas)
-- [ ] [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck)
+- [x] [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck)
 - [ ] [Streams](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
 - [ ] [Strings](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
 - [ ] [Sync](https://docs.microsoft.com/en-us/sysinternals/downloads/sync)
