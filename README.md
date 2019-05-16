@@ -70,7 +70,7 @@
 - [x] [ShellRunas](https://docs.microsoft.com/en-us/sysinternals/downloads/shellrunas)
 - [x] [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck)
 - [x] [Streams](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
-- [ ] [Strings](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
+- [x] [Strings](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
 - [ ] [Sync](https://docs.microsoft.com/en-us/sysinternals/downloads/sync)
 - [ ] [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon)
 - [ ] [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
