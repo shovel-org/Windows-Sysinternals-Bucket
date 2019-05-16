@@ -66,7 +66,7 @@
 - [x] [RegJump](https://docs.microsoft.com/en-us/sysinternals/downloads/regjump)
 - [x] [Registry Usage (RU)](https://docs.microsoft.com/en-us/sysinternals/downloads/ru)
 - [x] [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
-- [ ] [ShareEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/shareenum)
+- [x] [ShareEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/shareenum)
 - [ ] [ShellRunas](https://docs.microsoft.com/en-us/sysinternals/downloads/shellrunas)
 - [ ] [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck)
 - [ ] [Streams](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
