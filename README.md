@@ -73,7 +73,7 @@
 - [x] [Strings](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
 - [x] [Sync](https://docs.microsoft.com/en-us/sysinternals/downloads/sync)
 - [x] [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon)
-- [ ] [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
+- [x] [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 - [ ] [VMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
 - [ ] [VolumeID](https://docs.microsoft.com/en-us/sysinternals/downloads/volumeid)
 - [ ] [WhoIs](https://docs.microsoft.com/en-us/sysinternals/downloads/whois)
