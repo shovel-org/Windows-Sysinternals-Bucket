@@ -76,7 +76,7 @@
 - [x] [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 - [x] [VMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
 - [x] [VolumeID](https://docs.microsoft.com/en-us/sysinternals/downloads/volumeid)
-- [ ] [WhoIs](https://docs.microsoft.com/en-us/sysinternals/downloads/whois)
+- [x] [WhoIs](https://docs.microsoft.com/en-us/sysinternals/downloads/whois)
 - [ ] [WinObj](https://docs.microsoft.com/en-us/sysinternals/downloads/winobj)
 - [ ] [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
 - [ ] [Sysinternals-Suite]
