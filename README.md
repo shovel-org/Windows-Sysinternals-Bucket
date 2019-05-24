@@ -60,7 +60,7 @@
 - [ ] [PsShutdown](https://docs.microsoft.com/en-us/sysinternals/downloads/psshutdown)
 - [ ] [PsSuspend](https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend)
 - [ ] [PsTools](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
-- [ ] [RAMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
+- [x] [RAMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
 - [x] [RegDelNull](https://docs.microsoft.com/en-us/sysinternals/downloads/regdelnull)
 - [x] [RegHide](https://docs.microsoft.com/en-us/sysinternals/downloads/reghide)
 - [x] [RegJump](https://docs.microsoft.com/en-us/sysinternals/downloads/regjump)

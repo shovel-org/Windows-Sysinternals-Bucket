@@ -1,0 +1,22 @@
+{
+    "version": "1.52",
+    "description": "RAMMap. Advanced physical memory usage analysis utility for Windows Vista and higher.",
+    "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/rammap",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
+    },
+    "url": "https://download.sysinternals.com/files/RAMMap.zip",
+    "hash": "f24e56d116936037ddb390ebe419ed339401ec1bf7cec5001048c2b60bc0c137",
+    "shortcuts": [
+        [
+            "RAMMap.exe",
+            "SysInternals/RAMMap",
+            "/accepteula"
+        ]
+    ],
+    "checkver": "RAMMap\\s+v([\\d\\.]+)</h1",
+    "autoupdate": {
+        "url": "https://download.sysinternals.com/files/RAMMap.zip"
+    }
+}
