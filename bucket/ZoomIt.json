@@ -1,0 +1,22 @@
+{
+    "version": "4.5",
+    "description": "ZoomIt. Screen zoom and annotation tool for technical presentations that include application demonstrations.",
+    "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
+    },
+    "url": "https://download.sysinternals.com/files/ZoomIt.zip",
+    "hash": "9dd29a3342169680cbdb3cfb201e926295efed247fe7084c2c0d2899c8eb3ac1",
+    "shortcuts": [
+        [
+            "ZoomIt.exe",
+            "SysInternals\\ZoomIt",
+            "/accepteula"
+        ]
+    ],
+    "checkver": "ZoomIt\\s+v([\\d\\.]+)</h1",
+    "autoupdate": {
+        "url": "https://download.sysinternals.com/files/ZoomIt.zip"
+    }
+}

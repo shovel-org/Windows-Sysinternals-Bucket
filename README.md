@@ -78,6 +78,6 @@
 - [x] [VolumeID](https://docs.microsoft.com/en-us/sysinternals/downloads/volumeid)
 - [x] [WhoIs](https://docs.microsoft.com/en-us/sysinternals/downloads/whois)
 - [x] [WinObj](https://docs.microsoft.com/en-us/sysinternals/downloads/winobj)
-- [ ] [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+- [x] [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
 - [ ] [Sysinternals-Suite]
 - [ ] [Sysinternals-Suite-Nano]
