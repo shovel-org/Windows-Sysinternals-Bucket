@@ -11,7 +11,7 @@
     "shortcuts": [
         [
             "WinObj.exe",
-            "SysInternals/WinObj",
+            "SysInternals\\WinObj",
             "/accepteula"
         ]
     ],

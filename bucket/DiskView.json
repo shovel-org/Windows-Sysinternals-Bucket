@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "DiskView.exe",
-            "SysInternals/DiskView",
+            "SysInternals\\DiskView",
             "/accepteula"
         ]
     ],

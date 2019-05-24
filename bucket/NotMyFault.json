@@ -23,7 +23,7 @@
             "shortcuts": [
                 [
                     "notmyfault64.exe",
-                    "SysInternals/NotMyFault",
+                    "SysInternals\\NotMyFault",
                     "/accepteula"
                 ]
             ]
@@ -38,7 +38,7 @@
             "shortcuts": [
                 [
                     "notmyfault.exe",
-                    "SysInternals/NotMyFault",
+                    "SysInternals\\NotMyFault",
                     "/accepteula"
                 ]
             ]

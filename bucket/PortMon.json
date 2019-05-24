@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "portmon.exe",
-            "SysInternals/PortMon",
+            "SysInternals\\PortMon",
             "/accepteula"
         ]
     ],

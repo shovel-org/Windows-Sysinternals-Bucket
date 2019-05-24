@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "Diskmon.exe",
-            "SysInternals/DiskMon",
+            "SysInternals\\DiskMon",
             "/accepteula"
         ]
     ],

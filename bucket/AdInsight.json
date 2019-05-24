@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "AdInsight.exe",
-            "SysInternals/AdInsight",
+            "SysInternals\\AdInsight",
             "/accepteula"
         ]
     ],

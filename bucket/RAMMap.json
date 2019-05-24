@@ -11,7 +11,7 @@
     "shortcuts": [
         [
             "RAMMap.exe",
-            "SysInternals/RAMMap",
+            "SysInternals\\RAMMap",
             "/accepteula"
         ]
     ],

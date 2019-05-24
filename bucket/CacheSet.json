@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "Cacheset.exe",
-            "SysInternals/CacheSet",
+            "SysInternals\\CacheSet",
             "/accepteula"
         ]
     ],

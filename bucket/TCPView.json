@@ -11,7 +11,7 @@
     "shortcuts": [
         [
             "Tcpview.exe",
-            "SysInternals/TCPView",
+            "SysInternals\\TCPView",
             "/accepteula"
         ]
     ],

@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "AdExplorer.exe",
-            "SysInternals/AdExplorer",
+            "SysInternals\\AdExplorer",
             "/accepteula"
         ]
     ],

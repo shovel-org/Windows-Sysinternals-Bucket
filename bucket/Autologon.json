@@ -13,7 +13,7 @@
     "shortcuts": [
         [
             "Autologon.exe",
-            "SysInternals/Autologon",
+            "SysInternals\\Autologon",
             "/accepteula"
         ]
     ],

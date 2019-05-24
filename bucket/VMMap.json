@@ -11,7 +11,7 @@
     "shortcuts": [
         [
             "vmmap.exe",
-            "SysInternals/VMMap",
+            "SysInternals\\VMMap",
             "/accepteula"
         ]
     ],

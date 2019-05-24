@@ -20,7 +20,7 @@
             "shortcuts": [
                 [
                     "Bginfo64.exe",
-                    "SysInternals/BgInfo",
+                    "SysInternals\\BgInfo",
                     "/accepteula"
                 ]
             ]
@@ -30,7 +30,7 @@
             "shortcuts": [
                 [
                     "Bginfo.exe",
-                    "SysInternals/BgInfo",
+                    "SysInternals\\BgInfo",
                     "/accepteula"
                 ]
             ]

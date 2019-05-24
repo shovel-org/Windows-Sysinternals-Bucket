@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "Desktops.exe",
-            "SysInternals/Desktops",
+            "SysInternals\\Desktops",
             "/accepteula"
         ]
     ],

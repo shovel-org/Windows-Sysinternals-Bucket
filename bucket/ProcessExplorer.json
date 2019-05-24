@@ -21,7 +21,7 @@
             "shortcuts": [
                 [
                     "procexp64.exe",
-                    "SysInternals/ProcessExplorer",
+                    "SysInternals\\ProcessExplorer",
                     "/accepteula"
                 ]
             ]
@@ -31,7 +31,7 @@
             "shortcuts": [
                 [
                     "procexp.exe",
-                    "SysInternals/ProcessExplorer",
+                    "SysInternals\\ProcessExplorer",
                     "/accepteula"
                 ]
             ]

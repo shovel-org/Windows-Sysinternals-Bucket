@@ -12,7 +12,7 @@
             "\t\t\"url\": \"https://docs.microsoft.com/en-us/sysinternals/license-terms\"",
             "\t},",
             "\t\"url\": \"${2:https://download.sysinternals.com/files/${TM_FILENAME_BASE}.zip}\",",
-            "\t\"hash\": \"somedefaulthash\",",
+            "\t\"hash\": \"sha1:afcb2e440be2cfe06c697cd5c2adc72ea19ea187\",",
             "\t\"checkver\": \"${TM_FILENAME_BASE}\\\\\\s+v([\\\\\\d\\\\\\.]+)</h1\",",
             "\t\"autoupdate\": {",
             "\t\t\"url\": \"$2\"",
@@ -26,7 +26,7 @@
         "body": [
             "[",
             "\t\"${TM_FILENAME_BASE}.exe\",",
-            "\t\"SysInternals/${TM_FILENAME_BASE}\",",
+            "\t\"SysInternals\\${TM_FILENAME_BASE}\",",
             "\t\"/accepteula\"",
             "]",
         ],

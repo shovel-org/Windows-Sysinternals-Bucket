@@ -11,7 +11,7 @@
     "shortcuts": [
         [
             "ShareEnum.exe",
-            "SysInternals/ShareEnum",
+            "SysInternals\\ShareEnum",
             "/accepteula"
         ]
     ],

@@ -12,7 +12,7 @@
     "shortcuts": [
         [
             "disk2vhd.exe",
-            "SysInternals/Disk2vhd",
+            "SysInternals\\Disk2vhd",
             "/accepteula"
         ]
     ],
