@@ -8,7 +8,6 @@
     },
     "url": "https://download.sysinternals.com/files/AccessEnum.zip",
     "hash": "838fa61e2d6714f6b0667b70b7874836911adbf7bd9cccdd4221704ba0de73ea",
-    "bin": "AccessEnum.exe",
     "shortcuts": [
         [
             "AccessEnum.exe",

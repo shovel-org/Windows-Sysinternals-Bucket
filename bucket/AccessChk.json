@@ -1,6 +1,6 @@
 {
     "version": "6.12",
-    "description": "AccessChk. Display what kind of accesses specific users or groups have to resources including files, directories, Registry keys, global objects and Windows services.",
+    "description": "AccessChk. Reports effective permissions for securable objects.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/accesschk",
     "license": {
         "identifier": "Freeware",
@@ -11,15 +11,24 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "accesschk64.exe",
                 [
                     "accesschk64.exe",
-                    "accesschk"
+                    "accesschk64",
+                    "/accepteula"
+                ],
+                [
+                    "accesschk64.exe",
+                    "accesschk",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "accesschk.exe"
+            "bin": [
+                "accesschk.exe",
+                "accesschk",
+                "/accepteula"
+            ]
         }
     },
     "checkver": "AccessChk\\s+v([\\d\\.]+)</h1",

@@ -8,7 +8,6 @@
     },
     "url": "https://download.sysinternals.com/files/AdExplorer.zip",
     "hash": "97ef5001c225a869ae739c15aab1e067b66ce85250ff4d3c265bbfaf09ac8308",
-    "bin": "AdExplorer.exe",
     "shortcuts": [
         [
             "AdExplorer.exe",
