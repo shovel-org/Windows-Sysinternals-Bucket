@@ -20,6 +20,13 @@
             "}",
         ],
     },
+    "New sysinternals bin": {
+        "prefix": "sysBin",
+        "scope": "json,jsonc",
+        "body": [
+            "\t\"bin\": [[ \"${1:${TM_FILENAME_BASE}}.exe\", \"${1:${TM_FILENAME_BASE}}\", \"/accepteula\" ]],",
+        ]
+    },
     "New sysinternals shortcut": {
         "prefix": "sysShort",
         "scope": "json,jsonc",
@@ -31,7 +38,7 @@
             "]",
         ],
     },
-    "Architecture bin": {
+    "New sysinternals Architecture bin": {
         "prefix": "sysArchBin",
         "scope": "json,jsonc",
         "body": [
@@ -51,7 +58,7 @@
             "\t},",
         ],
     },
-    "Architecture bin (Eula)": {
+    "New sysinternals Architecture bin (Eula)": {
         "prefix": "sysArchBinEula",
         "scope": "json,jsonc",
         "body": [

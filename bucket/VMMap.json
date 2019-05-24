@@ -8,6 +8,13 @@
     },
     "url": "https://download.sysinternals.com/files/VMMap.zip",
     "hash": "ba65e6c8c5c4ded122d577c671d651e99d4151b5619475154e5c2bf3cd04588e",
+    "bin": [
+        [
+            "VMMap.exe",
+            "VMMap",
+            "/accepteula"
+        ]
+    ],
     "shortcuts": [
         [
             "vmmap.exe",

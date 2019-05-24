@@ -11,15 +11,24 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "whois64.exe",
                 [
                     "whois64.exe",
-                    "whois"
+                    "whois64",
+                    "/accepteula"
+                ],
+                [
+                    "whois64.exe",
+                    "whois",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "whois.exe"
+            "bin": [
+                "whois.exe",
+                "whois",
+                "/accepteula"
+            ]
         }
     },
     "checkver": "Whois\\s+v([\\d\\.]+)</h1",

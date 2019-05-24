@@ -11,15 +11,24 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "Volumeid64.exe",
                 [
                     "Volumeid64.exe",
-                    "Volumeid"
+                    "Volumeid64",
+                    "/accepteula"
+                ],
+                [
+                    "Volumeid64.exe",
+                    "Volumeid",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "Volumeid.exe"
+            "bin": [
+                "Volumeid.exe",
+                "Volumeid",
+                "/accepteula"
+            ]
         }
     },
     "checkver": "VolumeID\\s+v([\\d\\.]+)</h1",
