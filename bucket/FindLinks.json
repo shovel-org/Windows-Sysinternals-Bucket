@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "FindLinks64.exe",
                 [
                     "FindLinks64.exe",
-                    "FindLinks"
+                    "FindLinks64",
+                    "/accepteula"
+                ],
+                [
+                    "FindLinks64.exe",
+                    "FindLinks",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "FindLinks.exe"
+            "bin": [
+                [
+                    "FindLinks.exe",
+                    "FindLinks",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "FindLinks\\s+v([\\d\\.]+)</h1",

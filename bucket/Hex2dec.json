@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "hex2dec64.exe",
                 [
                     "hex2dec64.exe",
-                    "hex2dec"
+                    "hex2dec64",
+                    "/accepteula"
+                ],
+                [
+                    "hex2dec64.exe",
+                    "hex2dec",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "hex2dec.exe"
+            "bin": [
+                [
+                    "hex2dec.exe",
+                    "hex2dec",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "Hex2dec\\s+v([\\d\\.]+)</h1",

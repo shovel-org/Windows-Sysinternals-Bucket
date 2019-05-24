@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "handle64.exe",
                 [
                     "handle64.exe",
-                    "handle"
+                    "handle64",
+                    "/accepteula"
+                ],
+                [
+                    "handle64.exe",
+                    "handle",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "handle.exe"
+            "bin": [
+                [
+                    "handle.exe",
+                    "handle",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "Handle\\s+v([\\d\\.]+)</h1",

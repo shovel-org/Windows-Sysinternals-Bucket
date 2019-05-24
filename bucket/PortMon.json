@@ -8,7 +8,6 @@
     },
     "url": "https://download.sysinternals.com/files/PortMon.zip",
     "hash": "ba9795f89315b84c21345b1a05b305ed2880de1fb04c58c7cfc9ebe24eedcdbb",
-    "bin": "portmon.exe",
     "shortcuts": [
         [
             "portmon.exe",

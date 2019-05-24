@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "Clockres64.exe",
                 [
                     "Clockres64.exe",
-                    "Clockres"
+                    "Clockres64",
+                    "/accepteula"
+                ],
+                [
+                    "Clockres64.exe",
+                    "Clockres",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "Clockres.exe"
+            "bin": [
+                [
+                    "Clockres.exe",
+                    "Clockres",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "ClockRes\\s+v([\\d\\.]+)</h1",

@@ -11,10 +11,15 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "Bginfo64.exe",
                 [
                     "Bginfo64.exe",
-                    "Bginfo"
+                    "Bginfo64",
+                    "/accepteula"
+                ],
+                [
+                    "Bginfo64.exe",
+                    "Bginfo",
+                    "/accepteula"
                 ]
             ],
             "shortcuts": [
@@ -26,7 +31,13 @@
             ]
         },
         "32bit": {
-            "bin": "Bginfo.exe",
+            "bin": [
+                [
+                    "Bginfo.exe",
+                    "Bginfo",
+                    "/accepteula"
+                ]
+            ],
             "shortcuts": [
                 [
                     "Bginfo.exe",

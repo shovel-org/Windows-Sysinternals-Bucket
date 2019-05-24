@@ -9,8 +9,16 @@
     "url": "https://download.sysinternals.com/files/PendMoves.zip",
     "hash": "527143fc701ff297e57419d5200df82edb95b1dd564adaa50d40c5c93f6b36f6",
     "bin": [
-        "movefile.exe",
-        "pendmoves.exe"
+        [
+            "movefile.exe",
+            "movefile",
+            "/accepteula"
+        ],
+        [
+            "pendmoves.exe",
+            "pendmoves",
+            "/accepteula"
+        ]
     ],
     "checkver": {
         "regex": "PendMoves v([\\d\\.]+) and MoveFile\\s+v([\\d\\.]+)</h1",

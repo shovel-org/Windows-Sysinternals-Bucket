@@ -8,8 +8,6 @@
     },
     "url": "https://download.sysinternals.com/files/AutoLogon.zip",
     "hash": "4ba5b92411a9b4b8743bdc479ead0e3f50ed2c8cb5517a49246ef57f3ebb09c7",
-    "checkver": "Autologon\\s+v([\\d\\.]+)</h1",
-    "bin": "Autologon.exe",
     "shortcuts": [
         [
             "Autologon.exe",
@@ -17,6 +15,7 @@
             "/accepteula"
         ]
     ],
+    "checkver": "Autologon\\s+v([\\d\\.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/AutoLogon.zip"
     }

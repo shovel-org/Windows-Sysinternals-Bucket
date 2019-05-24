@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "ntfsinfo64.exe",
                 [
                     "ntfsinfo64.exe",
-                    "ntfsinfo"
+                    "ntfsinfo64",
+                    "/accepteula"
+                ],
+                [
+                    "ntfsinfo64.exe",
+                    "ntfsinfo",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "ntfsinfo.exe"
+            "bin": [
+                [
+                    "ntfsinfo.exe",
+                    "ntfsinfo",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "NTFSInfo\\s+v([\\d\\.]+)</h1",

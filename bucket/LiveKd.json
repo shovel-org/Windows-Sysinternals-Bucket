@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "livekd64.exe",
                 [
                     "livekd64.exe",
-                    "livekd"
+                    "livekd64",
+                    "/accepteula"
+                ],
+                [
+                    "livekd64.exe",
+                    "livekd",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "livekd.exe"
+            "bin": [
+                [
+                    "livekd.exe",
+                    "livekd",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "LiveKd\\s+v([\\d\\.]+)</h1",

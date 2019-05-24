@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "sdelete64.exe",
                 [
                     "sdelete64.exe",
-                    "sdelete"
+                    "sdelete64",
+                    "/accepteula"
+                ],
+                [
+                    "sdelete64.exe",
+                    "sdelete",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "sdelete.exe"
+            "bin": [
+                [
+                    "sdelete.exe",
+                    "sdelete",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "SDelete\\s+v([\\d\\.]+)</h1",

@@ -8,7 +8,6 @@
     },
     "url": "https://download.sysinternals.com/files/PageDefrag.zip",
     "hash": "78c191e724956109d64f42d170287ea33ad4ab0040f25735e93170279c349b87",
-    "bin": "pagedfrg.exe",
     "shortcuts": [
         [
             "pagedfrg.exe",

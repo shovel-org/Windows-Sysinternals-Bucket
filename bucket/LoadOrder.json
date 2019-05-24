@@ -13,11 +13,13 @@
             "bin": [
                 [
                     "LoadOrdC64.exe",
-                    "LoadOrd64"
+                    "LoadOrd64",
+                    "/accepteula"
                 ],
                 [
                     "LoadOrdC64.exe",
-                    "LoadOrd"
+                    "LoadOrd",
+                    "/accepteula"
                 ]
             ],
             "shortcuts": [
@@ -32,7 +34,8 @@
             "bin": [
                 [
                     "LoadOrdC.exe",
-                    "LoadOrd"
+                    "LoadOrd",
+                    "/accepteula"
                 ]
             ],
             "shortcuts": [

@@ -8,7 +8,13 @@
     },
     "url": "https://download.sysinternals.com/files/LdmDump.zip",
     "hash": "21247eb36b5c68598a491bb6b2e7c9b0ee2698da7aa430ea7ac405f5b2580812",
-    "bin": "ldmdump.exe",
+    "bin": [
+        [
+            "ldmdump.exe",
+            "ldmdump",
+            "/accepteula"
+        ]
+    ],
     "checkver": "LDMDump\\s+v([\\d\\.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/LdmDump.zip"

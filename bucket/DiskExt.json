@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "diskext64.exe",
                 [
                     "diskext64.exe",
-                    "diskext"
+                    "diskext64",
+                    "/accepteula"
+                ],
+                [
+                    "diskext64.exe",
+                    "diskext",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "diskext.exe"
+            "bin": [
+                [
+                    "diskext.exe",
+                    "diskext",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "DiskExt\\s+v([\\d\\.]+)</h1",

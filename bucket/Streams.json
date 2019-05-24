@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "streams64.exe",
                 [
                     "streams64.exe",
-                    "streams"
+                    "streams64",
+                    "/accepteula"
+                ],
+                [
+                    "streams64.exe",
+                    "streams",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "streams.exe"
+            "bin": [
+                [
+                    "streams.exe",
+                    "streams",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "Streams\\s+v([\\d\\.]+)</h1",

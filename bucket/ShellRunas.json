@@ -8,7 +8,13 @@
     },
     "url": "https://download.sysinternals.com/files/ShellRunas.zip",
     "hash": "ee154ed5ab75fa3245ddd0ea3eedcb41a434c1afa9b849f60660d50b6b86aec2",
-    "bin": "ShellRunas.exe",
+    "bin": [
+        [
+            "ShellRunas.exe",
+            "ShellRunas",
+            "/accepteula"
+        ]
+    ],
     "checkver": "ShellRunas\\s+v([\\d\\.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/ShellRunas.zip"

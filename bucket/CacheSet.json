@@ -8,7 +8,6 @@
     },
     "url": "https://download.sysinternals.com/files/CacheSet.zip",
     "hash": "22a22155867227c8fc75bbd6030c50a2e31908c6478804848b244843cc133ca3",
-    "bin": "Cacheset.exe",
     "shortcuts": [
         [
             "Cacheset.exe",

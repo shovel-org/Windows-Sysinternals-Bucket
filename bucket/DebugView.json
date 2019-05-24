@@ -8,7 +8,6 @@
     },
     "url": "https://download.sysinternals.com/files/DebugView.zip",
     "hash": "c3e53d67cd8179aff3ca690e39cd2287d9199bc99254df3e9d87e162b0faba9e",
-    "bin": "Dbgview.exe",
     "shortcuts": [
         [
             "Dbgview.exe",

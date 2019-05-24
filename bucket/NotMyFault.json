@@ -13,11 +13,13 @@
             "bin": [
                 [
                     "notmyfaultc64.exe",
-                    "notmyfault64"
+                    "notmyfault64",
+                    "/accepteula"
                 ],
                 [
                     "notmyfaultc64.exe",
-                    "notmyfault"
+                    "notmyfault",
+                    "/accepteula"
                 ]
             ],
             "shortcuts": [
@@ -32,7 +34,8 @@
             "bin": [
                 [
                     "notmyfaultc.exe",
-                    "notmyfault"
+                    "notmyfault",
+                    "/accepteula"
                 ]
             ],
             "shortcuts": [

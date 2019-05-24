@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "RegDelNull64.exe",
                 [
                     "RegDelNull64.exe",
-                    "RegDelNull"
+                    "RegDelNull64",
+                    "/accepteula"
+                ],
+                [
+                    "RegDelNull64.exe",
+                    "RegDelNull",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "RegDelNull.exe"
+            "bin": [
+                [
+                    "RegDelNull.exe",
+                    "RegDelNull",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "RegDelNull\\s+v([\\d\\.]+)</h1",

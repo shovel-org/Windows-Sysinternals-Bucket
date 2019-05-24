@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "strings64.exe",
                 [
                     "strings64.exe",
-                    "strings"
+                    "strings64",
+                    "/accepteula"
+                ],
+                [
+                    "strings64.exe",
+                    "strings",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "strings.exe"
+            "bin": [
+                [
+                    "strings.exe",
+                    "strings",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "Strings\\s+v([\\d\\.]+)</h1",

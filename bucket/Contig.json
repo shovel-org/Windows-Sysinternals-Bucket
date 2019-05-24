@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "Contig64.exe",
                 [
                     "Contig64.exe",
-                    "Contig"
+                    "Contig64",
+                    "/accepteula"
+                ],
+                [
+                    "Contig64.exe",
+                    "Contig",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "Contig.exe"
+            "bin": [
+                [
+                    "Contig.exe",
+                    "Contig",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "Contig\\s+v([\\d\\.]+)</h1",

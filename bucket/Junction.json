@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "junction64.exe",
                 [
                     "junction64.exe",
-                    "junction"
+                    "junction64",
+                    "/accepteula"
+                ],
+                [
+                    "junction64.exe",
+                    "junction",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "junction.exe"
+            "bin": [
+                [
+                    "junction.exe",
+                    "junction",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "Junction\\s+v([\\d\\.]+)</h1",

@@ -8,7 +8,6 @@
     },
     "url": "https://download.sysinternals.com/files/ProcessMonitor.zip",
     "hash": "3a0ce29f1654468a470d8b4e0f5f163a428ddab7bf0ea37b0cef504362cb94dd",
-    "bin": "Procmon.exe",
     "shortcuts": [
         [
             "Procmon.exe",

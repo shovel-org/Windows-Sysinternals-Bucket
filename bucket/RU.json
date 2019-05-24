@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "ru64.exe",
                 [
                     "ru64.exe",
-                    "ru"
+                    "ru64",
+                    "/accepteula"
+                ],
+                [
+                    "ru64.exe",
+                    "ru",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "ru.exe"
+            "bin": [
+                [
+                    "ru.exe",
+                    "ru",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "Registry Usage \\(RU\\)\\s+v([\\d\\.]+)</h1",

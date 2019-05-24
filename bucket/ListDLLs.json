@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "Listdlls64.exe",
                 [
                     "Listdlls64.exe",
-                    "Listdlls"
+                    "Listdlls64",
+                    "/accepteula"
+                ],
+                [
+                    "Listdlls64.exe",
+                    "Listdlls",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "Listdlls.exe"
+            "bin": [
+                [
+                    "Listdlls.exe",
+                    "Listdlls",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "ListDLLs\\s+v([\\d\\.]+)</h1",

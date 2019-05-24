@@ -1,6 +1,6 @@
 {
     "version": "13.94",
-    "description": "Autoruns. Shows what programs are configured to run during system bootup or login, and when various built-in Windows applications like Internet Explorer, Explorer and media players are started.",
+    "description": "Autoruns. Autostart program viewer.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns",
     "license": {
         "identifier": "Freeware",
@@ -11,14 +11,15 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "autorunsc64.exe",
                 [
                     "autorunsc64.exe",
-                    "autorunsc"
+                    "autoruns64",
+                    "/accepteula"
                 ],
                 [
                     "autorunsc64.exe",
-                    "autoruns"
+                    "autoruns",
+                    "/accepteula"
                 ]
             ],
             "shortcuts": [
@@ -30,7 +31,13 @@
             ]
         },
         "32bit": {
-            "bin": "Autoruns.exe",
+            "bin": [
+                [
+                    "autorunsc.exe",
+                    "autoruns",
+                    "/accepteula"
+                ]
+            ],
             "shortcuts": [
                 [
                     "Autoruns.exe",

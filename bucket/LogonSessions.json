@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "logonsessions64.exe",
                 [
                     "logonsessions64.exe",
-                    "logonsessions"
+                    "logonsessions64",
+                    "/accepteula"
+                ],
+                [
+                    "logonsessions64.exe",
+                    "logonsessions",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "logonsessions.exe"
+            "bin": [
+                [
+                    "logonsessions.exe",
+                    "logonsessions",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "LogonSessions\\s+v([\\d\\.]+)</h1",

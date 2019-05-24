@@ -8,7 +8,13 @@
     },
     "url": "https://download.sysinternals.com/files/Coreinfo.zip",
     "hash": "af5a57c572a2eb0230a79fa20e34bce20c0ecfdbe88fd205c20d50b18379f913",
-    "bin": "Coreinfo.exe",
+    "bin": [
+        [
+            "Coreinfo.exe",
+            "Coreinfo",
+            "/accepteula"
+        ]
+    ],
     "checkver": "Coreinfo\\s+v([\\d\\.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/Coreinfo.zip"

@@ -2,12 +2,15 @@
 
 `scoop bucket add Sysinternals 'https://github.com/Ash258/Scoop-Sysinternals.git'`
 
-- All binaries have `/accepteula` parameter added by default.
+- All binaries / shortcuts have `/accepteula` parameter added by default if they support it.
     - Some apps (adrestore, ...) do not support this parameter so they cannot be forced to automatically accept license agreement.
 
 ## Available manifests
 
-- [x] [AccessChk](https://docs.microsoft.com/en-us/sysinternals/downloads/accesschk)
+|            Manifest Name             | Tested |  GUI  | Command line support |
+| :----------------------------------: | :----: | :---: | :------------------: |
+| [AccessChk](./bucket/AccessChk.json) |   ❌    |   ❌   |          ✔           |
+
 - [x] [AccessEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
 - [x] [AdExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
 - [x] [AdInsight](https://docs.microsoft.com/en-us/sysinternals/downloads/adinsight)

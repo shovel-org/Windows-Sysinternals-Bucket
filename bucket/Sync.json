@@ -15,15 +15,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "sync64.exe",
                 [
                     "sync64.exe",
-                    "sync"
+                    "sync64",
+                    "/accepteula"
+                ],
+                [
+                    "sync64.exe",
+                    "sync",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "sync.exe"
+            "bin": [
+                [
+                    "sync.exe",
+                    "sync",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "Sync\\s+v([\\d\\.]+)</h1",

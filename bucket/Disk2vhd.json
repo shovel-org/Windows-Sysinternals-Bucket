@@ -8,7 +8,6 @@
     },
     "url": "https://download.sysinternals.com/files/Disk2vhd.zip",
     "hash": "dd04b6e7d467b78c994fbb1929a9e7438c2e900ced4fcff245227c8fe9a237bd",
-    "bin": "disk2vhd.exe",
     "shortcuts": [
         [
             "disk2vhd.exe",

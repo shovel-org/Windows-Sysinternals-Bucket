@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "du64.exe",
                 [
                     "du64.exe",
-                    "du"
+                    "du64",
+                    "/accepteula"
+                ],
+                [
+                    "du64.exe",
+                    "du",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "du.exe"
+            "bin": [
+                [
+                    "du.exe",
+                    "du",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "Disk Usage\\s+v([\\d\\.]+)</h1",

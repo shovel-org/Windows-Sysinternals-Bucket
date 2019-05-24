@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "Sysmon64.exe",
                 [
                     "Sysmon64.exe",
-                    "Sysmon"
+                    "Sysmon64",
+                    "/accepteula"
+                ],
+                [
+                    "Sysmon64.exe",
+                    "Sysmon",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "Sysmon.exe"
+            "bin": [
+                [
+                    "Sysmon.exe",
+                    "Sysmon",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "Sysmon\\s+v([\\d\\.]+)</h1",

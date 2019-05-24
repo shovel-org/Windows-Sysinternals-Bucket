@@ -25,9 +25,11 @@
         },
         "32bit": {
             "bin": [
-                "accesschk.exe",
-                "accesschk",
-                "/accepteula"
+                [
+                    "accesschk.exe",
+                    "accesschk",
+                    "/accepteula"
+                ]
             ]
         }
     },

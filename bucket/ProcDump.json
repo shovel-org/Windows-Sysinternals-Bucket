@@ -11,15 +11,26 @@
     "architecture": {
         "64bit": {
             "bin": [
-                "procdump64.exe",
                 [
                     "procdump64.exe",
-                    "procdump"
+                    "procdump64",
+                    "/accepteula"
+                ],
+                [
+                    "procdump64.exe",
+                    "procdump",
+                    "/accepteula"
                 ]
             ]
         },
         "32bit": {
-            "bin": "procdump.exe"
+            "bin": [
+                [
+                    "procdump.exe",
+                    "procdump",
+                    "/accepteula"
+                ]
+            ]
         }
     },
     "checkver": "ProcDump\\s+v([\\d\\.]+)</h1",
