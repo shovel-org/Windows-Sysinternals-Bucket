@@ -1,4 +1,4 @@
-# Scoop Sysinternals Bucket [![Build status](https://ci.appveyor.com/api/projects/status/ao7sb3cny7wg4mx2?svg=true)](https://ci.appveyor.com/project/Ash258/scoop-sysinternals)
+# Scoop Sysinternals Bucket [![Build status](https://img.shields.io/appveyor/ci/Ash258/scoop-Sysinternals/master.svg?style=popout&logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/Ash258/scoop-sysinternals)
 
 `scoop bucket add Sysinternals 'https://github.com/Ash258/Scoop-Sysinternals.git'`
 
