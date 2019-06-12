@@ -1,5 +1,5 @@
 {
-    "version": "3.25",
+    "version": "3.26",
     "description": "VMMap. Process virtual and physical memory analysis utility.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/VMMap.zip",
-    "hash": "ba65e6c8c5c4ded122d577c671d651e99d4151b5619475154e5c2bf3cd04588e",
+    "hash": "2257a119b2b966506cc214acb7dd15a23f66a574e0426f01a229f331f4911e50",
     "bin": [
         [
             "VMMap.exe",
