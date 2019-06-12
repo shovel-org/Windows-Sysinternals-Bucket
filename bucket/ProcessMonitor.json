@@ -1,5 +1,5 @@
 {
-    "version": "3.50",
+    "version": "3.52",
     "description": "ProcessMonitor. Monitor file system, Registry, process, thread and DLL activity in real-time.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/procmon",
     "license": {
