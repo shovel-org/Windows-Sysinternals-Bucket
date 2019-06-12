@@ -1,5 +1,5 @@
 {
-    "version": "13.94",
+    "version": "13.95",
     "description": "Autoruns. Autostart program viewer.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/Autoruns.zip",
-    "hash": "55377afa1d96c4e64b4d4c486f4ce910ddcff5a2e2f3c6ddb35183c830a61ff7",
+    "hash": "0cd567c7312f271a9c7c828eaa86e4e580886af8c04c39f71e7b08cb089d55ee",
     "architecture": {
         "64bit": {
             "bin": [
