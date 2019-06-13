@@ -1,6 +1,6 @@
 {
     "##": "TODO: Rework",
-    "version": "2019.April.23",
+    "version": "2019.June.11",
     "description": "Bundle of utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/",
     "license": {
@@ -8,7 +8,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/SysinternalsSuite.zip",
-    "hash": "8ad0f7fe1a83c42caf8b8d7a36c8be173dd3a127d7f39acced38a3cc9836bb70",
+    "hash": "709ea4cc692d8d963870c753f7d63a50f1fd7abd2a238ed70673b17e97491756",
     "checkver": {
         "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite",
         "regex": "Updated:\\s*(\\w+)\\s+(\\d+),\\s+(\\d+)",
