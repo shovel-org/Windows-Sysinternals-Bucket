@@ -1,5 +1,5 @@
 {
-    "version": "4.01",
+    "version": "4.20",
     "description": "NotMyFault. Crash, hang, and cause kernel memory leaks on Windows system.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/NotMyFault.zip",
-    "hash": "e571b10dceeadab9f88f34d237d23f53dc5eef7505b2024412609aab4ed9c84f",
+    "hash": "f949c922cc790776512c2712c73f42961e5b7cf2326f6f435d5b3dd03b99179d",
     "architecture": {
         "64bit": {
             "bin": [
