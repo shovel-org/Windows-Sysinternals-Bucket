@@ -1,5 +1,5 @@
 {
-    "version": "4.21",
+    "version": "4.22",
     "description": "Handle. Displays information about open handles for any process in the system. (What file or directory has process opened.)",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/handle",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/Handle.zip",
-    "hash": "9a1c333514067d7a2678b4702bbc14c80b879f892e83c007727b25b2abd0a99c",
+    "hash": "1f2e6eda07f0581c1cfac733f34005c9122c4d2a9d5e0b6d99797502a76ad79e",
     "architecture": {
         "64bit": {
             "bin": [
