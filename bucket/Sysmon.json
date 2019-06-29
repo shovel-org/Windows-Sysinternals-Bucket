@@ -1,5 +1,5 @@
 {
-    "version": "10.1",
+    "version": "10.2",
     "description": "Sysmon. Windows system service and device driver that, once installed on a system, remains resident across system reboots to monitor and log system activity to the Windows event log.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/Sysmon.zip",
-    "hash": "d236f1afa3cf09d2680c9aae9e51f4b67d391120b46e1ff7a8219721a309bb48",
+    "hash": "7c81b9757e33798266ff918e493e4caf94688c17836a026e732fa09fd7359fc1",
     "architecture": {
         "64bit": {
             "bin": [
