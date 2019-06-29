@@ -1,5 +1,5 @@
 {
-    "version": "16.25",
+    "version": "16.26",
     "description": "Process Explorer. Find out what files, registry keys and other objects processes have open, which DLLs they have loaded, and more.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/ProcessExplorer.zip",
-    "hash": "1333b0f45785d9dc153d911517112e163b324a4e9cb79f45286f4bfc6dff8cf9",
+    "hash": "dc422a6ca2872207e8d0ef55ba4291998c8923efe847ba9e025c610090ad20be",
     "architecture": {
         "64bit": {
             "bin": [
