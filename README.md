@@ -10,9 +10,8 @@ All applications are configured to automatically accept [End-user license agreem
 | :------------------------------------: | :----: | :---: | :------------------: |
 |  [AccessChk](./bucket/AccessChk.json)  |   ✔    |   ❌   |          ✔           |
 | [AccessEnum](./bucket/AccessEnum.json) |   ✔    |   ✔   |          ❌           |
+| [AdExplorer](./bucket/AdExplorer.json) |   ✔    |   ✔   |          ❌           |
 
-- [x] [AccessEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
-- [x] [AdExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
 - [x] [AdInsight](https://docs.microsoft.com/en-us/sysinternals/downloads/adinsight)
 - [x] [AdRestore](https://docs.microsoft.com/en-us/sysinternals/downloads/adrestore)
 - [x] [Autologon](https://docs.microsoft.com/en-us/sysinternals/downloads/autologon)
