@@ -82,4 +82,12 @@
             "\tSet-ItemProperty -Path \\$fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null",
         ],
     },
+    "New sysinternals uninstaller": {
+        "prefix": "sysUninst",
+        "scope": "yml,yaml",
+        "body": [
+            "uninstaller:",
+            "\tscript: Remove-Item \"HKCU:\\Software\\Sysinternals\\\\${TM_FILENAME_BASE}\" -Recurse -Force",
+        ],
+    },
 }

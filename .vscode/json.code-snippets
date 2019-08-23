@@ -84,6 +84,15 @@
             "\t\"if (-not (Test-Path \\$fin)) { New-Item \\$fin -Force | Out-Null }\",",
             "\t\"Set-ItemProperty -Path \\$fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null\"",
             "],",
-        ]
-    }
+        ],
+    },
+    "New sysinternals uninstaller": {
+        "prefix": "sysUninst",
+        "scope": "json,jsonc",
+        "body": [
+            "\"uninstaller\": {",
+            "\t\"script\": \"Remove-Item \\\"HKCU:\\\\\\Software\\\\\\Sysinternals\\\\\\\\${TM_FILENAME_BASE}\\\" -Recurse -Force\"",
+            "},",
+        ],
+    },
 }
