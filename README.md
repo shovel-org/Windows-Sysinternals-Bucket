@@ -2,8 +2,7 @@
 
 `scoop bucket add Sysinternals 'https://github.com/Ash258/Scoop-Sysinternals.git'`
 
-- All binaries / shortcuts have `/accepteula` parameter added by default if they support it.
-    - Some apps (adrestore, ...) do not support this parameter so they cannot be forced to automatically accept license agreement.
+All applications are configured to automatically accept [End-user license agreement](https://docs.microsoft.com/en-us/sysinternals/license-terms).
 
 ## Available manifests
 
