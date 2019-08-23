@@ -72,4 +72,18 @@
             "\t},",
         ],
     },
+    "New sysinternals post_install with accepeula": {
+        "prefix": "sysAccept",
+        "scope": "json,jsonc",
+        "body": [
+            "\"pre_install\": [",
+            "\t\"\\$sysint = 'HKCU:\\\\\\Software\\\\\\Sysinternals'\",",
+            "\t\"\\$name = '${TM_FILENAME_BASE}'\",",
+            "\t\"\\$fin = \\\"\\$sysint\\\\\\\\\\$name\\\"\",",
+            "\t\"if (-not (Test-Path \\$sysint)) { New-Item \\$sysint -Force | Out-Null }\",",
+            "\t\"if (-not (Test-Path \\$fin)) { New-Item \\$fin -Force | Out-Null }\",",
+            "\t\"Set-ItemProperty -Path \\$fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null\"",
+            "],",
+        ]
+    }
 }

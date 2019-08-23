@@ -69,4 +69,17 @@
             "\t\t\t\t- /accepteula",
         ],
     },
+    "New sysinternals post_install with accepeula": {
+        "prefix": "sysAccept",
+        "scope": "yml,yaml",
+        "body": [
+            "pre_install: |",
+            "\t\\$sysint = 'HKCU:\\\\Software\\\\Sysinternals'",
+            "\t\\$name = '${TM_FILENAME_BASE}'",
+            "\t\\$fin = \"\\$sysint\\\\\\$name\"",
+            "\tif (-not (Test-Path \\$sysint)) { New-Item \\$sysint -Force | Out-Null }",
+            "\tif (-not (Test-Path \\$fin)) { New-Item \\$fin -Force | Out-Null }",
+            "\tSet-ItemProperty -Path \\$fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null",
+        ],
+    },
 }

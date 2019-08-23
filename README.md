@@ -9,7 +9,7 @@
 
 |            Manifest Name             | Tested |  GUI  | Command line support |
 | :----------------------------------: | :----: | :---: | :------------------: |
-| [AccessChk](./bucket/AccessChk.json) |   ❌    |   ❌   |          ✔           |
+| [AccessChk](./bucket/AccessChk.json) |   ✔    |   ❌   |          ✔           |
 
 - [x] [AccessEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
 - [x] [AdExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
