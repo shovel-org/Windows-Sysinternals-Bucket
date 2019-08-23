@@ -75,7 +75,7 @@
         "body": [
             "pre_install: |",
             "\t\\$sysint = 'HKCU:\\\\Software\\\\Sysinternals'",
-            "\t\\$fin = \"\\$sysint\\\\${TM_FILENAME_BASE}\"",
+            "\t\\$fin = \"\\$sysint\\\\${1:${TM_FILENAME_BASE}}\"",
             "\tif (-not (Test-Path \\$sysint)) { New-Item \\$sysint -Force | Out-Null }",
             "\tif (-not (Test-Path \\$fin)) { New-Item \\$fin -Force | Out-Null }",
             "\tSet-ItemProperty -Path \\$fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null",
@@ -86,7 +86,7 @@
         "scope": "yml,yaml",
         "body": [
             "uninstaller:",
-            "\tscript: Remove-Item \"HKCU:\\Software\\Sysinternals\\\\${TM_FILENAME_BASE}\" -Recurse -Force",
+            "\tscript: Remove-Item \"HKCU:\\Software\\Sysinternals\\\\${1:${TM_FILENAME_BASE}}\" -Recurse -Force",
         ],
     },
 }

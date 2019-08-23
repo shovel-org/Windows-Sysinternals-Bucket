@@ -6,9 +6,10 @@ All applications are configured to automatically accept [End-user license agreem
 
 ## Available manifests
 
-|            Manifest Name             | Tested |  GUI  | Command line support |
-| :----------------------------------: | :----: | :---: | :------------------: |
-| [AccessChk](./bucket/AccessChk.json) |   ✔    |   ❌   |          ✔           |
+|             Manifest Name              | Tested |  GUI  | Command line support |
+| :------------------------------------: | :----: | :---: | :------------------: |
+|  [AccessChk](./bucket/AccessChk.json)  |   ✔    |   ❌   |          ✔           |
+| [AccessEnum](./bucket/AccessEnum.json) |   ✔    |   ✔   |          ❌           |
 
 - [x] [AccessEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
 - [x] [AdExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
