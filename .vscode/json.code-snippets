@@ -13,7 +13,7 @@
             "\t},",
             "\t\"url\": \"${2:https://download.sysinternals.com/files/${TM_FILENAME_BASE}.zip}\",",
             "\t\"hash\": \"sha1:afcb2e440be2cfe06c697cd5c2adc72ea19ea187\",",
-            "\t\"checkver\": \"${TM_FILENAME_BASE}\\\\\\s+v([\\\\\\d\\\\\\.]+)</h1\",",
+            "\t\"checkver\": \"${TM_FILENAME_BASE}\\\\\\s+v([\\\\\\d.]+)</h1\",",
             "\t\"autoupdate\": {",
             "\t\t\"url\": \"$2\"",
             "\t}",

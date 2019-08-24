@@ -6,18 +6,18 @@ All applications are configured to automatically accept [End-user license agreem
 
 ## Available manifests
 
-|             Manifest Name              | Tested |  GUI  | Command line support |
-| :------------------------------------: | :----: | :---: | :------------------: |
-|  [AccessChk](./bucket/AccessChk.json)  |   ✔    |   ❌   |          ✔           |
+| Manifest Name                          | Tested |  GUI  | Command line support |
+| :------------------------------------- | :----: | :---: | :------------------: |
+| [AccessChk](./bucket/AccessChk.json)   |   ✔    |   ❌   |          ✔           |
 | [AccessEnum](./bucket/AccessEnum.json) |   ✔    |   ✔   |          ❌           |
 | [AdExplorer](./bucket/AdExplorer.json) |   ✔    |   ✔   |          ❌           |
-|  [AdInsight](./bucket/AdInsight.json)  |   ✔    |   ✔   |          ❌           |
-|  [AdRestore](./bucket/AdRestore.json)  |   ✔    |   ❌   |          ✔           |
+| [AdInsight](./bucket/AdInsight.json)   |   ✔    |   ✔   |          ❌           |
+| [AdRestore](./bucket/AdRestore.json)   |   ✔    |   ❌   |          ✔           |
+| [Autologon](./bucket/Autologon.json)   |   ✔    |   ✔   |          ❌           |
+| [Autoruns](./bucket/Autoruns.json)     |   ✔    |   ✔   |          ✔           |
+| [BgInfo](./bucket/BgInfo.json)         |   ✔    |   ✔   |          ✔           |
+| [BlueScreen](./bucket/BlueScreen.json) |   ✔    |   ❌   |          ❌           |
 
-- [x] [Autologon](https://docs.microsoft.com/en-us/sysinternals/downloads/autologon)
-- [x] [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
-- [x] [BgInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo)
-- [x] [BlueScreen](https://docs.microsoft.com/en-us/sysinternals/downloads/bluescreen)
 - [x] [CacheSet](https://docs.microsoft.com/en-us/sysinternals/downloads/cacheset)
 - [x] [ClockRes](https://docs.microsoft.com/en-us/sysinternals/downloads/clockres)
 - [x] [Contig](https://docs.microsoft.com/en-us/sysinternals/downloads/contig)

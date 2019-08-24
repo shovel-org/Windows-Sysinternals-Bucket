@@ -11,7 +11,7 @@
             "\turl: https://docs.microsoft.com/en-us/sysinternals/license-terms",
             "url: ${2:https://download.sysinternals.com/files/${TM_FILENAME_BASE}.zip}",
             "hash: sha1:afcb2e440be2cfe06c697cd5c2adc72ea19ea187",
-            "checkver: ${TM_FILENAME_BASE}\\\\\\s+v([\\\\\\d\\\\\\.]+)</h1",
+            "checkver: ${TM_FILENAME_BASE}\\s+v([\\d.]+)</h1",
             "autoupdate:",
             "\turl: $2",
         ],

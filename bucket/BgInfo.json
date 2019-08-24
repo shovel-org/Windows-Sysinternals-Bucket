@@ -8,46 +8,40 @@
     },
     "url": "https://download.sysinternals.com/files/BGInfo.zip",
     "hash": "251e433f1971fe403f5daef4ebf4f61bb26d8cae9cca90b5f43ded516cbf87ed",
+    "pre_install": [
+        "$sysint = 'HKCU:\\Software\\Sysinternals'",
+        "$fin = \"$sysint\\BGInfo\"",
+        "if (-not (Test-Path $sysint)) { New-Item $sysint -Force | Out-Null }",
+        "if (-not (Test-Path $fin)) { New-Item $fin -Force | Out-Null }",
+        "Set-ItemProperty -Path $fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null"
+    ],
     "architecture": {
         "64bit": {
             "bin": [
+                "Bginfo64.exe",
                 [
                     "Bginfo64.exe",
-                    "Bginfo64",
-                    "/accepteula"
-                ],
-                [
-                    "Bginfo64.exe",
-                    "Bginfo",
-                    "/accepteula"
+                    "Bginfo"
                 ]
             ],
             "shortcuts": [
                 [
                     "Bginfo64.exe",
-                    "SysInternals\\BgInfo",
-                    "/accepteula"
+                    "SysInternals\\BgInfo"
                 ]
             ]
         },
         "32bit": {
-            "bin": [
-                [
-                    "Bginfo.exe",
-                    "Bginfo",
-                    "/accepteula"
-                ]
-            ],
+            "bin": "Bginfo.exe",
             "shortcuts": [
                 [
                     "Bginfo.exe",
-                    "SysInternals\\BgInfo",
-                    "/accepteula"
+                    "SysInternals\\BgInfo"
                 ]
             ]
         }
     },
-    "checkver": "BgInfo\\s+v([\\d\\.]+)</h1",
+    "checkver": "BgInfo\\s+v([\\d.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/BGInfo.zip"
     }
