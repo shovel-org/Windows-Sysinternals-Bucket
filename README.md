@@ -39,10 +39,10 @@ All applications are configured to automatically accept [End-user license agreem
 | [LiveKd](./bucket/LiveKd.json)               |   ✔    |   ❌   |          ✔           |
 | [LoadOrder](./bucket/LoadOrder.json)         |   ✔    |   ✔   |          ✔           |
 | [LogonSessions](./bucket/LogonSessions.json) |   ✔    |   ❌   |          ✔           |
+| [MoveFile](./bucket/MoveFile.json)           |   ✔    |   ❌   |          ✔           |
+| [NotMyFault](./bucket/NotMyFault.json)       |   ✔    |   ✔   |          ✔           |
+| [NTFSInfo](./bucket/NTFSInfo.json)           |   ✔    |   ❌   |          ✔           |
 
-- [x] [MoveFile](https://docs.microsoft.com/en-us/sysinternals/downloads/movefile)
-- [x] [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault)
-- [x] [NTFSInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/ntfsinfo)
 - [x] [PageDefrag](https://docs.microsoft.com/en-us/sysinternals/downloads/pagedefrag)
 - [x] [PendMoves](https://docs.microsoft.com/en-us/sysinternals/downloads/pendmoves)
 - [x] [PipeList](https://docs.microsoft.com/en-us/sysinternals/downloads/pipelist)
@@ -69,6 +69,7 @@ All applications are configured to automatically accept [End-user license agreem
 - [x] [WhoIs](https://docs.microsoft.com/en-us/sysinternals/downloads/whois)
 - [x] [WinObj](https://docs.microsoft.com/en-us/sysinternals/downloads/winobj)
 - [x] [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+
 - [x] [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
 - [ ] [PsFile](https://docs.microsoft.com/en-us/sysinternals/downloads/psfile)
 - [ ] [PsGetSid](https://docs.microsoft.com/en-us/sysinternals/downloads/psgetsid)

@@ -8,32 +8,28 @@
     },
     "url": "https://download.sysinternals.com/files/NTFSInfo.zip",
     "hash": "c71445a4d8df9ccb21923beb575e315529e264ad672de445110aabdc01bc5a9d",
+    "pre_install": [
+        "$sysint = 'HKCU:\\Software\\Sysinternals'",
+        "$fin = \"$sysint\\NTFSInfo\"",
+        "if (-not (Test-Path $sysint)) { New-Item $sysint -Force | Out-Null }",
+        "if (-not (Test-Path $fin)) { New-Item $fin -Force | Out-Null }",
+        "Set-ItemProperty -Path $fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null"
+    ],
     "architecture": {
         "64bit": {
             "bin": [
+                "ntfsinfo64.exe",
                 [
                     "ntfsinfo64.exe",
-                    "ntfsinfo64",
-                    "/accepteula"
-                ],
-                [
-                    "ntfsinfo64.exe",
-                    "ntfsinfo",
-                    "/accepteula"
+                    "ntfsinfo"
                 ]
             ]
         },
         "32bit": {
-            "bin": [
-                [
-                    "ntfsinfo.exe",
-                    "ntfsinfo",
-                    "/accepteula"
-                ]
-            ]
+            "bin": "ntfsinfo.exe"
         }
     },
-    "checkver": "NTFSInfo\\s+v([\\d\\.]+)</h1",
+    "checkver": "NTFSInfo\\s+v([\\d.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/NTFSInfo.zip"
     }
