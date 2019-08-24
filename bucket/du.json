@@ -1,6 +1,6 @@
 {
     "version": "1.61",
-    "description": "Disk Usage (du). View disk usage by directory.",
+    "description": "Disk Usage (du). Directory disk usage reporter.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/du",
     "license": {
         "identifier": "Freeware",
@@ -11,29 +11,18 @@
     "architecture": {
         "64bit": {
             "bin": [
+                "du64.exe",
                 [
                     "du64.exe",
-                    "du64",
-                    "/accepteula"
-                ],
-                [
-                    "du64.exe",
-                    "du",
-                    "/accepteula"
+                    "du"
                 ]
             ]
         },
         "32bit": {
-            "bin": [
-                [
-                    "du.exe",
-                    "du",
-                    "/accepteula"
-                ]
-            ]
+            "bin": "du.exe"
         }
     },
-    "checkver": "Disk Usage\\s+v([\\d\\.]+)</h1",
+    "checkver": "Disk Usage\\s+v([\\d.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/DU.zip"
     }

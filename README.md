@@ -22,14 +22,14 @@ All applications are configured to automatically accept [End-user license agreem
 | [Contig](./bucket/Contig.json)         |   ✔    |   ❌   |          ✔           |
 | [Coreinfo](./bucket/Coreinfo.json)     |   ✔    |   ❌   |          ✔           |
 | [Ctrl2Cap](./bucket/Ctrl2Cap.json)     |   ✔    |   ❌   |          ❌           |
+| [DebugView](./bucket/DebugView.json)   |   ✔    |   ✔   |          ✔           |
+| [Desktops](./bucket/Desktops.json)     |   ✔    |   ✔   |          ❌           |
+| [Disk2vhd](./bucket/Disk2vhd.json)     |   ✔    |   ✔   |          ✔           |
+| [DiskExt](./bucket/DiskExt.json)       |   ✔    |   ❌   |          ✔           |
+| [DiskMon](./bucket/DiskMon.json)       |   ✔    |   ✔   |          ❌           |
+| [DiskView](./bucket/DiskView.json)     |   ✔    |   ✔   |          ❌           |
+| [DiskUsage (DU)](./bucket/du.json)     |   ✔    |   ❌   |          ✔           |
 
-- [x] [DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
-- [x] [Desktops](https://docs.microsoft.com/en-us/sysinternals/downloads/desktops)
-- [x] [Disk2vhd](https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd)
-- [x] [DiskExt](https://docs.microsoft.com/en-us/sysinternals/downloads/diskext)
-- [x] [DiskMon](https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon)
-- [x] [DiskView](https://docs.microsoft.com/en-us/sysinternals/downloads/diskview)
-- [x] [Disk Usage (DU)](https://docs.microsoft.com/en-us/sysinternals/downloads/du)
 - [x] [EFSDump](https://docs.microsoft.com/en-us/sysinternals/downloads/efsdump)
 - [x] [FindLinks](https://docs.microsoft.com/en-us/sysinternals/downloads/findlinks)
 - [x] [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)
