@@ -8,37 +8,40 @@
     },
     "url": "https://download.sysinternals.com/files/ProcessExplorer.zip",
     "hash": "dc422a6ca2872207e8d0ef55ba4291998c8923efe847ba9e025c610090ad20be",
+    "pre_install": [
+        "$sysint = 'HKCU:\\Software\\Sysinternals'",
+        "$fin = \"$sysint\\Process Explorer\"",
+        "if (-not (Test-Path $sysint)) { New-Item $sysint -Force | Out-Null }",
+        "if (-not (Test-Path $fin)) { New-Item $fin -Force | Out-Null }",
+        "Set-ItemProperty -Path $fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null"
+    ],
     "architecture": {
         "64bit": {
             "bin": [
+                "procexp64.exe",
                 [
                     "procexp64.exe",
-                    "procexp64",
-                    "/accepteula"
-                ],
-                [
-                    "procexp64.exe",
-                    "procexp",
-                    "/accepteula"
+                    "procexp"
                 ]
             ],
             "shortcuts": [
                 [
                     "procexp64.exe",
-                    "SysInternals\\ProcessExplorer",
-                    "/accepteula"
+                    "SysInternals\\ProcessExplorer"
                 ]
             ]
         },
         "32bit": {
-            "bin": [
-                "procexp.exe",
-                "procexp",
-                "/accepteula"
+            "bin": "procexp.exe",
+            "shortcuts": [
+                [
+                    "procexp.exe",
+                    "SysInternals\\ProcessExplorer"
+                ]
             ]
         }
     },
-    "checkver": "Process Explorer\\s+v([\\d\\.]+)</h1",
+    "checkver": "Process Explorer\\s+v([\\d.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/ProcessExplorer.zip"
     }

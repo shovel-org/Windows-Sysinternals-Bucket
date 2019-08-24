@@ -8,14 +8,21 @@
     },
     "url": "https://download.sysinternals.com/files/ProcessMonitor.zip",
     "hash": "3a0ce29f1654468a470d8b4e0f5f163a428ddab7bf0ea37b0cef504362cb94dd",
+    "pre_install": [
+        "$sysint = 'HKCU:\\Software\\Sysinternals'",
+        "$fin = \"$sysint\\Process Monitor\"",
+        "if (-not (Test-Path $sysint)) { New-Item $sysint -Force | Out-Null }",
+        "if (-not (Test-Path $fin)) { New-Item $fin -Force | Out-Null }",
+        "Set-ItemProperty -Path $fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null"
+    ],
+    "bin": "Procmon.exe",
     "shortcuts": [
         [
             "Procmon.exe",
-            "SysInternals\\ProcessMonitor",
-            "/accepteula"
+            "SysInternals\\ProcessMonitor"
         ]
     ],
-    "checkver": "Process Monitor\\s+v([\\d\\.]+)</h1",
+    "checkver": "Process Monitor\\s+v([\\d.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/ProcessMonitor.zip"
     }

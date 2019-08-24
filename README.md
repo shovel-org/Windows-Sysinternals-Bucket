@@ -6,50 +6,50 @@ All applications are configured to automatically accept [End-user license agreem
 
 ## Available manifests
 
-| Manifest Name                                | Tested |  GUI  | Command line support |
-| :------------------------------------------- | :----: | :---: | :------------------: |
-| [AccessChk](./bucket/AccessChk.json)         |   ✔    |   ❌   |          ✔           |
-| [AccessEnum](./bucket/AccessEnum.json)       |   ✔    |   ✔   |          ❌           |
-| [AdExplorer](./bucket/AdExplorer.json)       |   ✔    |   ✔   |          ❌           |
-| [AdInsight](./bucket/AdInsight.json)         |   ✔    |   ✔   |          ❌           |
-| [AdRestore](./bucket/AdRestore.json)         |   ✔    |   ❌   |          ✔           |
-| [Autologon](./bucket/Autologon.json)         |   ✔    |   ✔   |          ❌           |
-| [Autoruns](./bucket/Autoruns.json)           |   ✔    |   ✔   |          ✔           |
-| [BgInfo](./bucket/BgInfo.json)               |   ✔    |   ✔   |          ✔           |
-| [BlueScreen](./bucket/BlueScreen.json)       |   ✔    |   ❌   |          ❌           |
-| [CacheSet](./bucket/CacheSet.json)           |   ✔    |   ✔   |          ❌           |
-| [ClockRes](./bucket/ClockRes.json)           |   ✔    |   ❌   |          ✔           |
-| [Contig](./bucket/Contig.json)               |   ✔    |   ❌   |          ✔           |
-| [Coreinfo](./bucket/Coreinfo.json)           |   ✔    |   ❌   |          ✔           |
-| [Ctrl2Cap](./bucket/Ctrl2Cap.json)           |   ✔    |   ❌   |          ❌           |
-| [DebugView](./bucket/DebugView.json)         |   ✔    |   ✔   |          ✔           |
-| [Desktops](./bucket/Desktops.json)           |   ✔    |   ✔   |          ❌           |
-| [Disk2vhd](./bucket/Disk2vhd.json)           |   ✔    |   ✔   |          ✔           |
-| [DiskExt](./bucket/DiskExt.json)             |   ✔    |   ❌   |          ✔           |
-| [DiskMon](./bucket/DiskMon.json)             |   ✔    |   ✔   |          ❌           |
-| [DiskView](./bucket/DiskView.json)           |   ✔    |   ✔   |          ❌           |
-| [DiskUsage (DU)](./bucket/du.json)           |   ✔    |   ❌   |          ✔           |
-| [EFSDump](./bucket/EFSDump.json)             |   ✔    |   ❌   |          ✔           |
-| [FindLinks](./bucket/FindLinks.json)         |   ✔    |   ❌   |          ✔           |
-| [Handle](./bucket/Handle.json)               |   ✔    |   ❌   |          ✔           |
-| [Hex2Dec](./bucket/Hex2Dec.json)             |   ✔    |   ❌   |          ✔           |
-| [Junction](./bucket/Junction.json)           |   ✔    |   ❌   |          ✔           |
-| [LDMDump](./bucket/LDMDump.json)             |   ✔    |   ❌   |          ✔           |
-| [ListDLLs](./bucket/ListDLLs.json)           |   ✔    |   ❌   |          ✔           |
-| [LiveKd](./bucket/LiveKd.json)               |   ✔    |   ❌   |          ✔           |
-| [LoadOrder](./bucket/LoadOrder.json)         |   ✔    |   ✔   |          ✔           |
-| [LogonSessions](./bucket/LogonSessions.json) |   ✔    |   ❌   |          ✔           |
-| [MoveFile](./bucket/MoveFile.json)           |   ✔    |   ❌   |          ✔           |
-| [NotMyFault](./bucket/NotMyFault.json)       |   ✔    |   ✔   |          ✔           |
-| [NTFSInfo](./bucket/NTFSInfo.json)           |   ✔    |   ❌   |          ✔           |
+| Manifest Name                                    | Tested |  GUI  | Command line support |
+| :----------------------------------------------- | :----: | :---: | :------------------: |
+| [AccessChk](./bucket/AccessChk.json)             |   ✔    |   ❌   |          ✔           |
+| [AccessEnum](./bucket/AccessEnum.json)           |   ✔    |   ✔   |          ❌           |
+| [AdExplorer](./bucket/AdExplorer.json)           |   ✔    |   ✔   |          ❌           |
+| [AdInsight](./bucket/AdInsight.json)             |   ✔    |   ✔   |          ❌           |
+| [AdRestore](./bucket/AdRestore.json)             |   ✔    |   ❌   |          ✔           |
+| [Autologon](./bucket/Autologon.json)             |   ✔    |   ✔   |          ❌           |
+| [Autoruns](./bucket/Autoruns.json)               |   ✔    |   ✔   |          ✔           |
+| [BgInfo](./bucket/BgInfo.json)                   |   ✔    |   ✔   |          ✔           |
+| [BlueScreen](./bucket/BlueScreen.json)           |   ✔    |   ❌   |          ❌           |
+| [CacheSet](./bucket/CacheSet.json)               |   ✔    |   ✔   |          ❌           |
+| [ClockRes](./bucket/ClockRes.json)               |   ✔    |   ❌   |          ✔           |
+| [Contig](./bucket/Contig.json)                   |   ✔    |   ❌   |          ✔           |
+| [Coreinfo](./bucket/Coreinfo.json)               |   ✔    |   ❌   |          ✔           |
+| [Ctrl2Cap](./bucket/Ctrl2Cap.json)               |   ✔    |   ❌   |          ❌           |
+| [DebugView](./bucket/DebugView.json)             |   ✔    |   ✔   |          ✔           |
+| [Desktops](./bucket/Desktops.json)               |   ✔    |   ✔   |          ❌           |
+| [Disk2vhd](./bucket/Disk2vhd.json)               |   ✔    |   ✔   |          ✔           |
+| [DiskExt](./bucket/DiskExt.json)                 |   ✔    |   ❌   |          ✔           |
+| [DiskMon](./bucket/DiskMon.json)                 |   ✔    |   ✔   |          ❌           |
+| [DiskView](./bucket/DiskView.json)               |   ✔    |   ✔   |          ❌           |
+| [DiskUsage (DU)](./bucket/du.json)               |   ✔    |   ❌   |          ✔           |
+| [EFSDump](./bucket/EFSDump.json)                 |   ✔    |   ❌   |          ✔           |
+| [FindLinks](./bucket/FindLinks.json)             |   ✔    |   ❌   |          ✔           |
+| [Handle](./bucket/Handle.json)                   |   ✔    |   ❌   |          ✔           |
+| [Hex2Dec](./bucket/Hex2Dec.json)                 |   ✔    |   ❌   |          ✔           |
+| [Junction](./bucket/Junction.json)               |   ✔    |   ❌   |          ✔           |
+| [LDMDump](./bucket/LDMDump.json)                 |   ✔    |   ❌   |          ✔           |
+| [ListDLLs](./bucket/ListDLLs.json)               |   ✔    |   ❌   |          ✔           |
+| [LiveKd](./bucket/LiveKd.json)                   |   ✔    |   ❌   |          ✔           |
+| [LoadOrder](./bucket/LoadOrder.json)             |   ✔    |   ✔   |          ✔           |
+| [LogonSessions](./bucket/LogonSessions.json)     |   ✔    |   ❌   |          ✔           |
+| [MoveFile](./bucket/MoveFile.json)               |   ✔    |   ❌   |          ✔           |
+| [NotMyFault](./bucket/NotMyFault.json)           |   ✔    |   ✔   |          ✔           |
+| [NTFSInfo](./bucket/NTFSInfo.json)               |   ✔    |   ❌   |          ✔           |
+| [PageDefrag](./bucket/PageDefrag.json)           |   ✔    |   ✔   |          ✔           |
+| [PendMoves](./bucket/PendMoves.json)             |   ✔    |   ❌   |          ✔           |
+| [PipeList](./bucket/PipeList.json)               |   ✔    |   ❌   |          ✔           |
+| [PortMon](./bucket/PortMon.json)                 |   ✔    |   ✔   |          ❌           |
+| [ProcDump](./bucket/ProcDump.json)               |   ✔    |   ❌   |          ✔           |
+| [ProcessExplorer](./bucket/ProcessExplorer.json) |   ✔    |   ✔   |          ✔           |
+| [ProcessMonitor](./bucket/ProcessMonitor.json)   |   ✔    |   ✔   |          ✔           |
 
-- [x] [PageDefrag](https://docs.microsoft.com/en-us/sysinternals/downloads/pagedefrag)
-- [x] [PendMoves](https://docs.microsoft.com/en-us/sysinternals/downloads/pendmoves)
-- [x] [PipeList](https://docs.microsoft.com/en-us/sysinternals/downloads/pipelist)
-- [x] [PortMon](https://docs.microsoft.com/en-us/sysinternals/downloads/portmon)
-- [x] [ProcDump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump)
-- [x] [ProcessExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
-- [x] [ProcessMonitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
 - [x] [RAMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
 - [x] [RegDelNull](https://docs.microsoft.com/en-us/sysinternals/downloads/regdelnull)
 - [x] [RegHide](https://docs.microsoft.com/en-us/sysinternals/downloads/reghide)
