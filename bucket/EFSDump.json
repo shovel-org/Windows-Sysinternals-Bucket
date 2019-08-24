@@ -8,14 +8,15 @@
     },
     "url": "https://download.sysinternals.com/files/EFSDump.zip",
     "hash": "3e8551cdfa3420963db99feaf3829e511ac86cdd383ff23d057b375adf144c5f",
-    "bin": [
-        [
-            "efsdump.exe",
-            "efsdump",
-            "/accepteula"
-        ]
+    "pre_install": [
+        "$sysint = 'HKCU:\\Software\\Sysinternals'",
+        "$fin = \"$sysint\\EFSDump\"",
+        "if (-not (Test-Path $sysint)) { New-Item $sysint -Force | Out-Null }",
+        "if (-not (Test-Path $fin)) { New-Item $fin -Force | Out-Null }",
+        "Set-ItemProperty -Path $fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null"
     ],
-    "checkver": "EFSDump\\s+v([\\d\\.]+)</h1",
+    "bin": "efsdump.exe",
+    "checkver": "EFSDump\\s+v([\\d.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/EFSDump.zip"
     }

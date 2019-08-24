@@ -29,11 +29,11 @@ All applications are configured to automatically accept [End-user license agreem
 | [DiskMon](./bucket/DiskMon.json)       |   ✔    |   ✔   |          ❌           |
 | [DiskView](./bucket/DiskView.json)     |   ✔    |   ✔   |          ❌           |
 | [DiskUsage (DU)](./bucket/du.json)     |   ✔    |   ❌   |          ✔           |
+| [EFSDump](./bucket/EFSDump.json)       |   ✔    |   ❌   |          ✔           |
+| [FindLinks](./bucket/FindLinks.json)   |   ✔    |   ❌   |          ✔           |
+| [Handle](./bucket/Handle.json)         |   ✔    |   ❌   |          ✔           |
+| [Hex2Dec](./bucket/Hex2Dec.json)       |   ✔    |   ❌   |          ✔           |
 
-- [x] [EFSDump](https://docs.microsoft.com/en-us/sysinternals/downloads/efsdump)
-- [x] [FindLinks](https://docs.microsoft.com/en-us/sysinternals/downloads/findlinks)
-- [x] [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle)
-- [x] [Hex2dec](https://docs.microsoft.com/en-us/sysinternals/downloads/hex2dec)
 - [x] [Junction](https://docs.microsoft.com/en-us/sysinternals/downloads/junction)
 - [x] [LDMDump](https://docs.microsoft.com/en-us/sysinternals/downloads/ldmdump)
 - [x] [ListDLLs](https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls)
