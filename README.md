@@ -49,12 +49,12 @@ All applications are configured to automatically accept [End-user license agreem
 | [ProcDump](./bucket/ProcDump.json)               |   ✔    |   ❌   |          ✔           |
 | [ProcessExplorer](./bucket/ProcessExplorer.json) |   ✔    |   ✔   |          ✔           |
 | [ProcessMonitor](./bucket/ProcessMonitor.json)   |   ✔    |   ✔   |          ✔           |
+| [RAMMap](./bucket/RAMMap.json)                   |   ✔    |   ✔   |          ✔           |
+| [RegDelNull](./bucket/RegDelNull.json)           |   ✔    |   ❌   |          ✔           |
+| [RegHide](./bucket/RegHide.json)                 |   ✔    |   ❌   |          ✔           |
+| [RegJump](./bucket/RegJump.json)                 |   ✔    |   ❌   |          ✔           |
+| [Registry Usage (RU)](./bucket/RU.json)          |   ✔    |   ❌   |          ✔           |
 
-- [x] [RAMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
-- [x] [RegDelNull](https://docs.microsoft.com/en-us/sysinternals/downloads/regdelnull)
-- [x] [RegHide](https://docs.microsoft.com/en-us/sysinternals/downloads/reghide)
-- [x] [RegJump](https://docs.microsoft.com/en-us/sysinternals/downloads/regjump)
-- [x] [Registry Usage (RU)](https://docs.microsoft.com/en-us/sysinternals/downloads/ru)
 - [x] [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
 - [x] [ShareEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/shareenum)
 - [x] [ShellRunas](https://docs.microsoft.com/en-us/sysinternals/downloads/shellrunas)
