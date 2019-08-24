@@ -17,12 +17,12 @@ All applications are configured to automatically accept [End-user license agreem
 | [Autoruns](./bucket/Autoruns.json)     |   ✔    |   ✔   |          ✔           |
 | [BgInfo](./bucket/BgInfo.json)         |   ✔    |   ✔   |          ✔           |
 | [BlueScreen](./bucket/BlueScreen.json) |   ✔    |   ❌   |          ❌           |
+| [CacheSet](./bucket/CacheSet.json)     |   ✔    |   ✔   |          ❌           |
+| [ClockRes](./bucket/ClockRes.json)     |   ✔    |   ❌   |          ✔           |
+| [Contig](./bucket/Contig.json)         |   ✔    |   ❌   |          ✔           |
+| [Coreinfo](./bucket/Coreinfo.json)     |   ✔    |   ❌   |          ✔           |
+| [Ctrl2Cap](./bucket/Ctrl2Cap.json)     |   ✔    |   ❌   |          ❌           |
 
-- [x] [CacheSet](https://docs.microsoft.com/en-us/sysinternals/downloads/cacheset)
-- [x] [ClockRes](https://docs.microsoft.com/en-us/sysinternals/downloads/clockres)
-- [x] [Contig](https://docs.microsoft.com/en-us/sysinternals/downloads/contig)
-- [x] [Coreinfo](https://docs.microsoft.com/en-us/sysinternals/downloads/coreinfo)
-- [x] [Ctrl2Cap](https://docs.microsoft.com/en-us/sysinternals/downloads/ctrl2cap)
 - [x] [DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
 - [x] [Desktops](https://docs.microsoft.com/en-us/sysinternals/downloads/desktops)
 - [x] [Disk2vhd](https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd)
