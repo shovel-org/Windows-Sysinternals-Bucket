@@ -6,41 +6,40 @@ All applications are configured to automatically accept [End-user license agreem
 
 ## Available manifests
 
-| Manifest Name                          | Tested |  GUI  | Command line support |
-| :------------------------------------- | :----: | :---: | :------------------: |
-| [AccessChk](./bucket/AccessChk.json)   |   ✔    |   ❌   |          ✔           |
-| [AccessEnum](./bucket/AccessEnum.json) |   ✔    |   ✔   |          ❌           |
-| [AdExplorer](./bucket/AdExplorer.json) |   ✔    |   ✔   |          ❌           |
-| [AdInsight](./bucket/AdInsight.json)   |   ✔    |   ✔   |          ❌           |
-| [AdRestore](./bucket/AdRestore.json)   |   ✔    |   ❌   |          ✔           |
-| [Autologon](./bucket/Autologon.json)   |   ✔    |   ✔   |          ❌           |
-| [Autoruns](./bucket/Autoruns.json)     |   ✔    |   ✔   |          ✔           |
-| [BgInfo](./bucket/BgInfo.json)         |   ✔    |   ✔   |          ✔           |
-| [BlueScreen](./bucket/BlueScreen.json) |   ✔    |   ❌   |          ❌           |
-| [CacheSet](./bucket/CacheSet.json)     |   ✔    |   ✔   |          ❌           |
-| [ClockRes](./bucket/ClockRes.json)     |   ✔    |   ❌   |          ✔           |
-| [Contig](./bucket/Contig.json)         |   ✔    |   ❌   |          ✔           |
-| [Coreinfo](./bucket/Coreinfo.json)     |   ✔    |   ❌   |          ✔           |
-| [Ctrl2Cap](./bucket/Ctrl2Cap.json)     |   ✔    |   ❌   |          ❌           |
-| [DebugView](./bucket/DebugView.json)   |   ✔    |   ✔   |          ✔           |
-| [Desktops](./bucket/Desktops.json)     |   ✔    |   ✔   |          ❌           |
-| [Disk2vhd](./bucket/Disk2vhd.json)     |   ✔    |   ✔   |          ✔           |
-| [DiskExt](./bucket/DiskExt.json)       |   ✔    |   ❌   |          ✔           |
-| [DiskMon](./bucket/DiskMon.json)       |   ✔    |   ✔   |          ❌           |
-| [DiskView](./bucket/DiskView.json)     |   ✔    |   ✔   |          ❌           |
-| [DiskUsage (DU)](./bucket/du.json)     |   ✔    |   ❌   |          ✔           |
-| [EFSDump](./bucket/EFSDump.json)       |   ✔    |   ❌   |          ✔           |
-| [FindLinks](./bucket/FindLinks.json)   |   ✔    |   ❌   |          ✔           |
-| [Handle](./bucket/Handle.json)         |   ✔    |   ❌   |          ✔           |
-| [Hex2Dec](./bucket/Hex2Dec.json)       |   ✔    |   ❌   |          ✔           |
+| Manifest Name                                | Tested |  GUI  | Command line support |
+| :------------------------------------------- | :----: | :---: | :------------------: |
+| [AccessChk](./bucket/AccessChk.json)         |   ✔    |   ❌   |          ✔           |
+| [AccessEnum](./bucket/AccessEnum.json)       |   ✔    |   ✔   |          ❌           |
+| [AdExplorer](./bucket/AdExplorer.json)       |   ✔    |   ✔   |          ❌           |
+| [AdInsight](./bucket/AdInsight.json)         |   ✔    |   ✔   |          ❌           |
+| [AdRestore](./bucket/AdRestore.json)         |   ✔    |   ❌   |          ✔           |
+| [Autologon](./bucket/Autologon.json)         |   ✔    |   ✔   |          ❌           |
+| [Autoruns](./bucket/Autoruns.json)           |   ✔    |   ✔   |          ✔           |
+| [BgInfo](./bucket/BgInfo.json)               |   ✔    |   ✔   |          ✔           |
+| [BlueScreen](./bucket/BlueScreen.json)       |   ✔    |   ❌   |          ❌           |
+| [CacheSet](./bucket/CacheSet.json)           |   ✔    |   ✔   |          ❌           |
+| [ClockRes](./bucket/ClockRes.json)           |   ✔    |   ❌   |          ✔           |
+| [Contig](./bucket/Contig.json)               |   ✔    |   ❌   |          ✔           |
+| [Coreinfo](./bucket/Coreinfo.json)           |   ✔    |   ❌   |          ✔           |
+| [Ctrl2Cap](./bucket/Ctrl2Cap.json)           |   ✔    |   ❌   |          ❌           |
+| [DebugView](./bucket/DebugView.json)         |   ✔    |   ✔   |          ✔           |
+| [Desktops](./bucket/Desktops.json)           |   ✔    |   ✔   |          ❌           |
+| [Disk2vhd](./bucket/Disk2vhd.json)           |   ✔    |   ✔   |          ✔           |
+| [DiskExt](./bucket/DiskExt.json)             |   ✔    |   ❌   |          ✔           |
+| [DiskMon](./bucket/DiskMon.json)             |   ✔    |   ✔   |          ❌           |
+| [DiskView](./bucket/DiskView.json)           |   ✔    |   ✔   |          ❌           |
+| [DiskUsage (DU)](./bucket/du.json)           |   ✔    |   ❌   |          ✔           |
+| [EFSDump](./bucket/EFSDump.json)             |   ✔    |   ❌   |          ✔           |
+| [FindLinks](./bucket/FindLinks.json)         |   ✔    |   ❌   |          ✔           |
+| [Handle](./bucket/Handle.json)               |   ✔    |   ❌   |          ✔           |
+| [Hex2Dec](./bucket/Hex2Dec.json)             |   ✔    |   ❌   |          ✔           |
+| [Junction](./bucket/Junction.json)           |   ✔    |   ❌   |          ✔           |
+| [LDMDump](./bucket/LDMDump.json)             |   ✔    |   ❌   |          ✔           |
+| [ListDLLs](./bucket/ListDLLs.json)           |   ✔    |   ❌   |          ✔           |
+| [LiveKd](./bucket/LiveKd.json)               |   ✔    |   ❌   |          ✔           |
+| [LoadOrder](./bucket/LoadOrder.json)         |   ✔    |   ✔   |          ✔           |
+| [LogonSessions](./bucket/LogonSessions.json) |   ✔    |   ❌   |          ✔           |
 
-- [x] [Junction](https://docs.microsoft.com/en-us/sysinternals/downloads/junction)
-- [x] [LDMDump](https://docs.microsoft.com/en-us/sysinternals/downloads/ldmdump)
-- [x] [ListDLLs](https://docs.microsoft.com/en-us/sysinternals/downloads/listdlls)
-- [x] [LiveKd](https://docs.microsoft.com/en-us/sysinternals/downloads/livekd)
-    - [ ] Depends on <https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/index>
-- [x] [LoadOrder](https://docs.microsoft.com/en-us/sysinternals/downloads/loadorder)
-- [x] [LogonSessions](https://docs.microsoft.com/en-us/sysinternals/downloads/logonsessions)
 - [x] [MoveFile](https://docs.microsoft.com/en-us/sysinternals/downloads/movefile)
 - [x] [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault)
 - [x] [NTFSInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/ntfsinfo)
@@ -51,20 +50,6 @@ All applications are configured to automatically accept [End-user license agreem
 - [x] [ProcDump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump)
 - [x] [ProcessExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [x] [ProcessMonitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
-- [x] [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
-- [ ] [PsFile](https://docs.microsoft.com/en-us/sysinternals/downloads/psfile)
-- [ ] [PsGetSid](https://docs.microsoft.com/en-us/sysinternals/downloads/psgetsid)
-- [ ] [PsInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/psinfo)
-- [ ] [PsKill](https://docs.microsoft.com/en-us/sysinternals/downloads/pskill)
-- [ ] [PsList](https://docs.microsoft.com/en-us/sysinternals/downloads/pslist)
-- [ ] [PsLoggedOn](https://docs.microsoft.com/en-us/sysinternals/downloads/psloggedon)
-- [ ] [PsLogList](https://docs.microsoft.com/en-us/sysinternals/downloads/psloglist)
-- [ ] [PsPasswd](https://docs.microsoft.com/en-us/sysinternals/downloads/pspasswd)
-- [ ] [PsPing](https://docs.microsoft.com/en-us/sysinternals/downloads/psping)
-- [ ] [PsService](https://docs.microsoft.com/en-us/sysinternals/downloads/psservice)
-- [ ] [PsShutdown](https://docs.microsoft.com/en-us/sysinternals/downloads/psshutdown)
-- [ ] [PsSuspend](https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend)
-- [ ] [PsTools](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
 - [x] [RAMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
 - [x] [RegDelNull](https://docs.microsoft.com/en-us/sysinternals/downloads/regdelnull)
 - [x] [RegHide](https://docs.microsoft.com/en-us/sysinternals/downloads/reghide)
@@ -84,5 +69,21 @@ All applications are configured to automatically accept [End-user license agreem
 - [x] [WhoIs](https://docs.microsoft.com/en-us/sysinternals/downloads/whois)
 - [x] [WinObj](https://docs.microsoft.com/en-us/sysinternals/downloads/winobj)
 - [x] [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+- [x] [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
+- [ ] [PsFile](https://docs.microsoft.com/en-us/sysinternals/downloads/psfile)
+- [ ] [PsGetSid](https://docs.microsoft.com/en-us/sysinternals/downloads/psgetsid)
+- [ ] [PsInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/psinfo)
+- [ ] [PsKill](https://docs.microsoft.com/en-us/sysinternals/downloads/pskill)
+- [ ] [PsList](https://docs.microsoft.com/en-us/sysinternals/downloads/pslist)
+- [ ] [PsLoggedOn](https://docs.microsoft.com/en-us/sysinternals/downloads/psloggedon)
+- [ ] [PsLogList](https://docs.microsoft.com/en-us/sysinternals/downloads/psloglist)
+- [ ] [PsPasswd](https://docs.microsoft.com/en-us/sysinternals/downloads/pspasswd)
+- [ ] [PsPing](https://docs.microsoft.com/en-us/sysinternals/downloads/psping)
+- [ ] [PsService](https://docs.microsoft.com/en-us/sysinternals/downloads/psservice)
+- [ ] [PsShutdown](https://docs.microsoft.com/en-us/sysinternals/downloads/psshutdown)
+- [ ] [PsSuspend](https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend)
+- [ ] [PsTools](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
+- [ ] [LiveKd](https://docs.microsoft.com/en-us/sysinternals/downloads/livekd)
+    - [ ] Depends on <https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/index>
 - [ ] [Sysinternals-Suite]
 - [ ] [Sysinternals-Suite-Nano]
