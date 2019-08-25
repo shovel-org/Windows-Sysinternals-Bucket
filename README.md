@@ -49,6 +49,8 @@ All applications are configured to automatically accept [End-user license agreem
 | [ProcDump](./bucket/ProcDump.json)               |   ✔    |   ❌   |          ✔           |
 | [ProcessExplorer](./bucket/ProcessExplorer.json) |   ✔    |   ✔   |          ✔           |
 | [ProcessMonitor](./bucket/ProcessMonitor.json)   |   ✔    |   ✔   |          ✔           |
+| [PsExec](./bucket/PsExec.json)                   |   ✔    |   ❌   |          ✔           |
+| [PsFile](./bucket/PsFile.json)                   |   ✔    |   ❌   |          ✔           |
 | [RAMMap](./bucket/RAMMap.json)                   |   ✔    |   ✔   |          ✔           |
 | [RegDelNull](./bucket/RegDelNull.json)           |   ✔    |   ❌   |          ✔           |
 | [RegHide](./bucket/RegHide.json)                 |   ✔    |   ❌   |          ✔           |
@@ -69,7 +71,6 @@ All applications are configured to automatically accept [End-user license agreem
 | [WinObj](./bucket/WinObj.json)                   |   ✔    |   ✔   |          ❌           |
 | [ZoomIt](./bucket/ZoomIt.json)                   |   ✔    |   ✔   |          ❌           |
 
-- [x] [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
 - [ ] [PsFile](https://docs.microsoft.com/en-us/sysinternals/downloads/psfile)
 - [ ] [PsGetSid](https://docs.microsoft.com/en-us/sysinternals/downloads/psgetsid)
 - [ ] [PsInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/psinfo)
