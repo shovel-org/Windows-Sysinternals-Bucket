@@ -52,6 +52,7 @@ All applications are configured to automatically accept [End-user license agreem
 | [PsExec](./bucket/PsExec.json)                   |   ✔    |   ❌   |          ✔           |
 | [PsFile](./bucket/PsFile.json)                   |   ✔    |   ❌   |          ✔           |
 | [PsGetSid](./bucket/PsGetSid.json)               |   ✔    |   ❌   |          ✔           |
+| [PsInfo](./bucket/PsInfo.json)                   |   ✔    |   ❌   |          ✔           |
 | [RAMMap](./bucket/RAMMap.json)                   |   ✔    |   ✔   |          ✔           |
 | [RegDelNull](./bucket/RegDelNull.json)           |   ✔    |   ❌   |          ✔           |
 | [RegHide](./bucket/RegHide.json)                 |   ✔    |   ❌   |          ✔           |
@@ -72,9 +73,6 @@ All applications are configured to automatically accept [End-user license agreem
 | [WinObj](./bucket/WinObj.json)                   |   ✔    |   ✔   |          ❌           |
 | [ZoomIt](./bucket/ZoomIt.json)                   |   ✔    |   ✔   |          ❌           |
 
-- [ ] [PsFile](https://docs.microsoft.com/en-us/sysinternals/downloads/psfile)
-- [ ] [PsGetSid](https://docs.microsoft.com/en-us/sysinternals/downloads/psgetsid)
-- [ ] [PsInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/psinfo)
 - [ ] [PsKill](https://docs.microsoft.com/en-us/sysinternals/downloads/pskill)
 - [ ] [PsList](https://docs.microsoft.com/en-us/sysinternals/downloads/pslist)
 - [ ] [PsLoggedOn](https://docs.microsoft.com/en-us/sysinternals/downloads/psloggedon)

@@ -1,5 +1,3 @@
-"PsGetsid.exe",
-"PsInfo.exe",
 "pskill.exe",
 "pslist.exe",
 "PsLoggedon.exe",
@@ -9,11 +7,6 @@
 "PsService.exe",
 "pssuspend.exe",
 //jkfjdsjfdsjflslfd
-"PsInfo64.exe",
-[
-    "PsInfo64.exe",
-    "PsInfo"
-],
 "pskill64.exe",
 [
     "pskill64.exe",
