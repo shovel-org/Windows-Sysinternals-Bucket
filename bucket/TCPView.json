@@ -8,14 +8,20 @@
     },
     "url": "https://download.sysinternals.com/files/TCPView.zip",
     "hash": "34f8d739d8c1dec3021812f1878fc7b802d4dddbb0d7e83a30adf5d1dcc515fa",
+    "pre_install": [
+        "$sysint = 'HKCU:\\Software\\Sysinternals'",
+        "$fin = \"$sysint\\TCPView\"",
+        "if (-not (Test-Path $sysint)) { New-Item $sysint -Force | Out-Null }",
+        "if (-not (Test-Path $fin)) { New-Item $fin -Force | Out-Null }",
+        "Set-ItemProperty -Path $fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null"
+    ],
     "shortcuts": [
         [
             "Tcpview.exe",
-            "SysInternals\\TCPView",
-            "/accepteula"
+            "SysInternals\\TCPView"
         ]
     ],
-    "checkver": "TCPView\\s+v([\\d\\.]+)</h1",
+    "checkver": "TCPView\\s+v([\\d.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/TCPView.zip"
     }

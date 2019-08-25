@@ -62,13 +62,12 @@ All applications are configured to automatically accept [End-user license agreem
 | [Strings](./bucket/Strings.json)                 |   ✔    |   ❌   |          ✔           |
 | [Sync](./bucket/Sync.json)                       |   ✔    |   ❌   |          ✔           |
 | [Sysmon](./bucket/Sysmon.json)                   |   ✔    |   ❌   |          ✔           |
-
-- [x] [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
-- [x] [VMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
-- [x] [VolumeID](https://docs.microsoft.com/en-us/sysinternals/downloads/volumeid)
-- [x] [WhoIs](https://docs.microsoft.com/en-us/sysinternals/downloads/whois)
-- [x] [WinObj](https://docs.microsoft.com/en-us/sysinternals/downloads/winobj)
-- [x] [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+| [TCPView](./bucket/TCPView.json)                 |   ✔    |   ✔   |          ❌           |
+| [VMMap](./bucket/VMMap.json)                     |   ✔    |   ✔   |          ✔           |
+| [VolumeID](./bucket/VolumeID.json)               |   ✔    |   ❌   |          ✔           |
+| [WhoIs](./bucket/WhoIs.json)                     |   ✔    |   ❌   |          ✔           |
+| [WinObj](./bucket/WinObj.json)                   |   ✔    |   ✔   |          ❌           |
+| [ZoomIt](./bucket/ZoomIt.json)                   |   ✔    |   ✔   |          ❌           |
 
 - [x] [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
 - [ ] [PsFile](https://docs.microsoft.com/en-us/sysinternals/downloads/psfile)
