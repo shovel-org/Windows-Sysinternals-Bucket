@@ -61,6 +61,7 @@ All applications are configured to automatically accept [End-user license agreem
 | [PsPing](./bucket/PsPing.json)                   |   ✔    |   ❌   |          ✔           |
 | [PsService](./bucket/PsService.json)             |   ✔    |   ❌   |          ✔           |
 | [PsShutdown](./bucket/PsShutdown.json)           |   ✔    |   ❌   |          ✔           |
+| [PsSuspend](./bucket/PsSuspend.json)             |   ✔    |   ❌   |          ✔           |
 | [RAMMap](./bucket/RAMMap.json)                   |   ✔    |   ✔   |          ✔           |
 | [RegDelNull](./bucket/RegDelNull.json)           |   ✔    |   ❌   |          ✔           |
 | [RegHide](./bucket/RegHide.json)                 |   ✔    |   ❌   |          ✔           |
