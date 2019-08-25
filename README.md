@@ -58,6 +58,7 @@ All applications are configured to automatically accept [End-user license agreem
 | [PSLoggedOn](./bucket/PSLoggedOn.json)           |   ✔    |   ❌   |          ✔           |
 | [PsLogList](./bucket/PsLogList.json)             |   ✔    |   ❌   |          ✔           |
 | [PsPasswd](./bucket/PsPasswd.json)               |   ✔    |   ❌   |          ✔           |
+| [PsPing](./bucket/PsPing.json)                   |   ✔    |   ❌   |          ✔           |
 | [RAMMap](./bucket/RAMMap.json)                   |   ✔    |   ✔   |          ✔           |
 | [RegDelNull](./bucket/RegDelNull.json)           |   ✔    |   ❌   |          ✔           |
 | [RegHide](./bucket/RegHide.json)                 |   ✔    |   ❌   |          ✔           |
