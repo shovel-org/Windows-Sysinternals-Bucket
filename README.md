@@ -54,6 +54,7 @@ All applications are configured to automatically accept [End-user license agreem
 | [PsGetSid](./bucket/PsGetSid.json)               |   ✔    |   ❌   |          ✔           |
 | [PsInfo](./bucket/PsInfo.json)                   |   ✔    |   ❌   |          ✔           |
 | [PsKill](./bucket/PsKill.json)                   |   ✔    |   ❌   |          ✔           |
+| [PsList](./bucket/PsList.json)                   |   ✔    |   ❌   |          ✔           |
 | [RAMMap](./bucket/RAMMap.json)                   |   ✔    |   ✔   |          ✔           |
 | [RegDelNull](./bucket/RegDelNull.json)           |   ✔    |   ❌   |          ✔           |
 | [RegHide](./bucket/RegHide.json)                 |   ✔    |   ❌   |          ✔           |
