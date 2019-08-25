@@ -54,15 +54,15 @@ All applications are configured to automatically accept [End-user license agreem
 | [RegHide](./bucket/RegHide.json)                 |   ✔    |   ❌   |          ✔           |
 | [RegJump](./bucket/RegJump.json)                 |   ✔    |   ❌   |          ✔           |
 | [Registry Usage (RU)](./bucket/RU.json)          |   ✔    |   ❌   |          ✔           |
+| [SDelete](./bucket/SDelete.json)                 |   ✔    |   ❌   |          ✔           |
+| [ShareEnum](./bucket/ShareEnum.json)             |   ✔    |   ✔   |          ❌           |
+| [ShellRunas](./bucket/ShellRunas.json)           |   ✔    |   ❌   |          ✔           |
+| [Sigcheck](./bucket/Sigcheck.json)               |   ✔    |   ❌   |          ✔           |
+| [Streams](./bucket/Streams.json)                 |   ✔    |   ❌   |          ✔           |
+| [Strings](./bucket/Strings.json)                 |   ✔    |   ❌   |          ✔           |
+| [Sync](./bucket/Sync.json)                       |   ✔    |   ❌   |          ✔           |
+| [Sysmon](./bucket/Sysmon.json)                   |   ✔    |   ❌   |          ✔           |
 
-- [x] [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
-- [x] [ShareEnum](https://docs.microsoft.com/en-us/sysinternals/downloads/shareenum)
-- [x] [ShellRunas](https://docs.microsoft.com/en-us/sysinternals/downloads/shellrunas)
-- [x] [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck)
-- [x] [Streams](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
-- [x] [Strings](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
-- [x] [Sync](https://docs.microsoft.com/en-us/sysinternals/downloads/sync)
-- [x] [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon)
 - [x] [TCPView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 - [x] [VMMap](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
 - [x] [VolumeID](https://docs.microsoft.com/en-us/sysinternals/downloads/volumeid)

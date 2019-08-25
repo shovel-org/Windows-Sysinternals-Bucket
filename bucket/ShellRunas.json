@@ -8,14 +8,15 @@
     },
     "url": "https://download.sysinternals.com/files/ShellRunas.zip",
     "hash": "ee154ed5ab75fa3245ddd0ea3eedcb41a434c1afa9b849f60660d50b6b86aec2",
-    "bin": [
-        [
-            "ShellRunas.exe",
-            "ShellRunas",
-            "/accepteula"
-        ]
+    "pre_install": [
+        "$sysint = 'HKCU:\\Software\\Sysinternals'",
+        "$fin = \"$sysint\\ShellRunas - Sysinternals: www.sysinternals.com\"",
+        "if (-not (Test-Path $sysint)) { New-Item $sysint -Force | Out-Null }",
+        "if (-not (Test-Path $fin)) { New-Item $fin -Force | Out-Null }",
+        "Set-ItemProperty -Path $fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null"
     ],
-    "checkver": "ShellRunas\\s+v([\\d\\.]+)</h1",
+    "bin": "ShellRunas.exe",
+    "checkver": "ShellRunas\\s+v([\\d.]+)</h1",
     "autoupdate": {
         "url": "https://download.sysinternals.com/files/ShellRunas.zip"
     }
