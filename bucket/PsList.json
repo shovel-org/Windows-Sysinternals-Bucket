@@ -1,6 +1,6 @@
 {
     "version": "1.4",
-    "description": "PsList. Process information lister.",
+    "description": "PsList. Local and remote process information lister.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/pslist",
     "license": {
         "identifier": "Freeware",

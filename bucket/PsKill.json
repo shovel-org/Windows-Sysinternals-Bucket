@@ -1,6 +1,6 @@
 {
     "version": "1.16",
-    "description": "PsKill. ",
+    "description": "PsKill. Local and remote processes killer.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/pskill",
     "license": {
         "identifier": "Freeware",
