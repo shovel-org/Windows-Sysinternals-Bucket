@@ -33,6 +33,13 @@
     ],
     "checkver": "PsExec\\s+v([\\d.]+)</h1",
     "autoupdate": {
-        "url": "https://download.sysinternals.com/files/PSTools.zip"
+        "architecture": {
+            "64bit": {
+                "url": "https://live.sysinternals.com/PsExec64.exe"
+            },
+            "32bit": {
+                "url": "https://live.sysinternals.com/PsExec.exe"
+            }
+        }
     }
 }

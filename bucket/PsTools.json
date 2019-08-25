@@ -1,0 +1,56 @@
+"PsGetsid.exe",
+"PsInfo.exe",
+"pskill.exe",
+"pslist.exe",
+"PsLoggedon.exe",
+"psloglist.exe",
+"pspasswd.exe",
+"psping.exe",
+"PsService.exe",
+"pssuspend.exe",
+//jkfjdsjfdsjflslfd
+"PsInfo64.exe",
+[
+    "PsInfo64.exe",
+    "PsInfo"
+],
+"pskill64.exe",
+[
+    "pskill64.exe",
+    "pskill"
+],
+"pslist64.exe",
+[
+    "pslist64.exe",
+    "pslist"
+],
+"PsLoggedon64.exe",
+[
+    "PsLoggedon64.exe",
+    "PsLoggedon"
+],
+"psloglist64.exe",
+[
+    "psloglist64.exe",
+    "psloglist"
+],
+"pspasswd64.exe",
+[
+    "pspasswd64.exe",
+    "pspasswd"
+],
+"psping64.exe",
+[
+    "psping64.exe",
+    "psping"
+],
+"PsService64.exe",
+[
+    "PsService64.exe",
+    "PsService"
+],
+"pssuspend64.exe",
+[
+    "pssuspend64.exe",
+    "pssuspend"
+]
