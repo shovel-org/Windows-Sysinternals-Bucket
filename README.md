@@ -82,14 +82,6 @@ All applications are configured to automatically accept [End-user license agreem
 | [WinObj](./bucket/WinObj.json)                   |   ✔    |   ✔   |          ❌           |
 | [ZoomIt](./bucket/ZoomIt.json)                   |   ✔    |   ✔   |          ❌           |
 
-- [ ] [PsList](https://docs.microsoft.com/en-us/sysinternals/downloads/pslist)
-- [ ] [PsLoggedOn](https://docs.microsoft.com/en-us/sysinternals/downloads/psloggedon)
-- [ ] [PsLogList](https://docs.microsoft.com/en-us/sysinternals/downloads/psloglist)
-- [ ] [PsPasswd](https://docs.microsoft.com/en-us/sysinternals/downloads/pspasswd)
-- [ ] [PsPing](https://docs.microsoft.com/en-us/sysinternals/downloads/psping)
-- [ ] [PsService](https://docs.microsoft.com/en-us/sysinternals/downloads/psservice)
-- [ ] [PsShutdown](https://docs.microsoft.com/en-us/sysinternals/downloads/psshutdown)
-- [ ] [PsSuspend](https://docs.microsoft.com/en-us/sysinternals/downloads/pssuspend)
 - [ ] [PsTools](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
 - [ ] [LiveKd](https://docs.microsoft.com/en-us/sysinternals/downloads/livekd)
     - [ ] Depends on <https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/index>
