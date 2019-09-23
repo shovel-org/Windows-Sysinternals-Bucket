@@ -1,5 +1,5 @@
 {
-    "version": "4.27",
+    "version": "4.28",
     "description": "BgInfo. Automatically generates desktop backgrounds that include important information about the system including IP addresses, computer name, network adapters, and more.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/BGInfo.zip",
-    "hash": "251e433f1971fe403f5daef4ebf4f61bb26d8cae9cca90b5f43ded516cbf87ed",
+    "hash": "7e15fdef35a0b39583f6f7f0373f99ed5a53b7464388753549634e8015f9a733",
     "pre_install": [
         "$sysint = 'HKCU:\\Software\\Sysinternals'",
         "$fin = \"$sysint\\BGInfo\"",
