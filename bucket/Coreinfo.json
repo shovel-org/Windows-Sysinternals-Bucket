@@ -1,6 +1,6 @@
 {
     "version": "3.31",
-    "description": "Coreinfo. Shows the mapping between logical processors and the physical processor, NUMA node, and socket on which they reside, as well as the cache?s assigned to each logical processor.",
+    "description": "Coreinfo. Shows the mapping between logical processors and the physical processor, NUMA node, and socket on which they reside, as well as the caches assigned to each logical processor.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/coreinfo",
     "license": {
         "identifier": "Freeware",
