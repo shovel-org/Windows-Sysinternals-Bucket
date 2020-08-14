@@ -2,6 +2,8 @@
 
 `scoop bucket add Sysinternals 'https://github.com/Ash258/Scoop-Sysinternals.git'`
 
+❗❗ [For the most optimized scoop experience use "shovel" implementation](https://github.com/Ash258/Scoop-Core) ❗❗
+
 All applications are configured to automatically accept [End-user license agreement](https://docs.microsoft.com/en-us/sysinternals/license-terms).
 
 ## Available manifests
