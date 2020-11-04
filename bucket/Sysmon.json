@@ -1,5 +1,5 @@
 {
-    "version": "12.01",
+    "version": "12.02",
     "description": "Sysmon. Windows system service and device driver that, once installed on a system, remains resident across system reboots to monitor and log system activity to the Windows event log.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon",
     "license": {
