@@ -1,5 +1,5 @@
 {
-    "version": "1.61",
+    "version": "1.62",
     "description": "Disk Usage (du). Directory disk usage reporter",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/du",
     "license": {
