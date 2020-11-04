@@ -1,5 +1,5 @@
 {
-    "version": "3.30",
+    "version": "3.31",
     "description": "VMMap. Process virtual and physical memory analysis utility.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap",
     "license": {
