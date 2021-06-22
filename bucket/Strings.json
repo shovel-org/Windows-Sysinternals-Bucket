@@ -1,5 +1,5 @@
 {
-    "version": "2.53",
+    "version": "2.54",
     "description": "Strings. Scans the file for UNICODE (or ASCII) strings of a default length of 3 or more UNICODE (or ASCII) characters.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/strings",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/Strings.zip",
-    "hash": "c1289484f55cb15908c622af6ca02fd186a6e200e1c421af7917c532a985d043",
+    "hash": "b1a0a3dc5f639af1c98ae5832676727646eb3d543640e65e310dff747e733a25",
     "pre_install": [
         "$sysint = 'HKCU:\\SOFTWARE\\Sysinternals'",
         "$fin = \"$sysint\\Strings\"",
