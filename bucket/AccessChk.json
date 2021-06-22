@@ -1,5 +1,5 @@
 {
-    "version": "6.13",
+    "version": "6.14",
     "description": "AccessChk. Reports effective permissions for securable objects.",
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/accesschk",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/AccessChk.zip",
-    "hash": "c8b0980b513d315306baa6afae4b4ddc9e3bbc9d9d2890e42465c167d64649fd",
+    "hash": "3f61a27e85c860acf86d5295d150698b2b52825faf6f989a0d92d0b7182401f0",
     "pre_install": [
         "$sysint = 'HKCU:\\SOFTWARE\\Sysinternals'",
         "$fin = \"$sysint\\AccessChk\"",
