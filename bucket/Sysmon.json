@@ -7,7 +7,7 @@
         "url": "https://docs.microsoft.com/en-us/sysinternals/license-terms"
     },
     "url": "https://download.sysinternals.com/files/Sysmon.zip",
-    "hash": "e065b114eaebfedfc55ba0ca8da64f580536e146f0a26bcbfdc5839eb5443d3b",
+    "hash": "364de985be28bcca864712da6fd34f49689148a2c89deabea70844469da6577e",
     "pre_install": [
         "$sysint = 'HKCU:\\SOFTWARE\\Sysinternals'",
         "$fin = \"$sysint\\System Monitor\"",
