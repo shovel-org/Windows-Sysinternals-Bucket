@@ -21,4 +21,3 @@ bin: pendmoves.exe
 checkver: PendMoves v([\d.]+)
 autoupdate:
   url: https://download.sysinternals.com/files/PendMoves.zip
-

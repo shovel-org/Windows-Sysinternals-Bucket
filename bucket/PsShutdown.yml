@@ -21,4 +21,3 @@ bin: PsShutdown.exe
 checkver: PsShutdown\s+v([\d.]+)</h1
 autoupdate:
   url: https://live.sysinternals.com/PsShutdown.exe
-

@@ -19,4 +19,3 @@ pre_uninstall: |
 checkver: Ctrl2Cap\s+v([\d.]+)</h1
 autoupdate:
   url: https://download.sysinternals.com/files/Ctrl2Cap.zip
-

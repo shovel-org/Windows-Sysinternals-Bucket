@@ -25,4 +25,3 @@ shortcuts:
 checkver: Portmon for Windows\s+v([\d.]+)</h1
 autoupdate:
   url: https://download.sysinternals.com/files/PortMon.zip
-

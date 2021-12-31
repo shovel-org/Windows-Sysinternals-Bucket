@@ -33,4 +33,3 @@ architecture:
 checkver: Whois\s+v([\d.]+)</h1
 autoupdate:
   url: https://download.sysinternals.com/files/WhoIs.zip
-

@@ -33,4 +33,3 @@ architecture:
 checkver: Hex2dec\s+v([\d.]+)</h1
 autoupdate:
   url: https://download.sysinternals.com/files/Hex2Dec.zip
-

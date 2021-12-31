@@ -13,4 +13,3 @@ shortcuts:
 checkver: Remote Desktop Connection Manager\s+v([\d.]+)</h1
 autoupdate:
   url: https://download.sysinternals.com/files/RDCMan.zip
-

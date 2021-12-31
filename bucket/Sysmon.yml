@@ -28,4 +28,3 @@ architecture:
 checkver: Sysmon\s+v([\d.]+)</h1
 autoupdate:
   url: https://download.sysinternals.com/files/Sysmon.zip
-

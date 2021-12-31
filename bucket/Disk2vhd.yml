@@ -24,4 +24,3 @@ shortcuts:
 checkver: Disk2vhd\s+v([\d.]+)</h1
 autoupdate:
   url: https://download.sysinternals.com/files/Disk2vhd.zip
-

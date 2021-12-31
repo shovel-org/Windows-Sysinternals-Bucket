@@ -1,6 +1,6 @@
 # [Shovel](https://github.com/Ash258/Scoop-Core) Sysinternals Bucket [![Build status](https://img.shields.io/appveyor/ci/Ash258/Sysinternals-Bucket/main.svg?style=popout&logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/Ash258/sysinternals-bucket)
 
-`shovel bucket add sysinternals` or usuing URL `shovel bucket add sysinternals 'https://github.com/shovel-org/Sysinternals-Bucket.git'`
+`shovel bucket add sysinternals` or using URL `shovel bucket add sysinternals 'https://github.com/shovel-org/Sysinternals-Bucket.git'`
 
 All applications are configured to automatically accept [End-user license agreement](https://docs.microsoft.com/en-us/sysinternals/license-terms).
 

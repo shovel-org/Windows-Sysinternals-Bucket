@@ -42,4 +42,3 @@ architecture:
 checkver: Insight for Active Directory\s+v([\d.]+)</h1
 autoupdate:
   url: https://download.sysinternals.com/files/AdInsight.zip
-

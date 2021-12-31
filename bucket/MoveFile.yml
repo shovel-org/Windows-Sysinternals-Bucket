@@ -21,4 +21,3 @@ bin: movefile.exe
 checkver: PendMoves v[\d.]+\s+and MoveFile\s+v([\d.]+)</h1
 autoupdate:
   url: https://download.sysinternals.com/files/PendMoves.zip
-

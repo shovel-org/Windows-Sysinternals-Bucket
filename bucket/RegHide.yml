@@ -20,4 +20,3 @@ pre_uninstall: |
 bin: RegHide.exe
 autoupdate:
   url: https://download.sysinternals.com/files/RegHide.zip
-

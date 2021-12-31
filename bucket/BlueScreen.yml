@@ -9,4 +9,3 @@ hash: ddd3fe457d8240a722852e3a50ae2b385ff4129d02966aa8991cd3342d2d6eb2
 checkver: BlueScreen Screen Saver\s+v([\d.]+)</h1
 autoupdate:
   url: https://download.sysinternals.com/files/BlueScreen.zip
-
