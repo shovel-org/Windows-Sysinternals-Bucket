@@ -2,6 +2,6 @@
     "Sysinternals table line": {
         "prefix": "sysTableLine",
         "scope": "md,markdown",
-        "body": "| [${1:ManifestName}](./bucket/$1.json) | ${2|❌,✔|} | ${3|❌,✔|} | ${4|❌,✔|} ",
+        "body": "| [${1:ManifestName}](./bucket/$1.yml) | ${2|❌,✔|} | ${3|❌,✔|} | ${4|❌,✔|}| ${5|❌,✔|} ",
     }
 }
