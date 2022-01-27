@@ -1,11 +1,11 @@
-version: "3.13"
+version: "3.14"
 description: WinObj. Access and display information on the NT Object Manager's name space using native API.
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/winobj
 license:
   identifier: Freeware
   url: https://docs.microsoft.com/en-us/sysinternals/license-terms
 url: https://download.sysinternals.com/files/WinObj.zip
-hash: 807057162c9a9b0e673bdf8b299459b98d3bbb78aed8ca2a56f3648ae113e9e7
+hash: 585c75e0c2fb82fc43d8b986deac305fa3711db8d5f369dd874b66e721e6f5b3
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
   $fin = "$sysint\Winobj"
