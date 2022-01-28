@@ -1,11 +1,11 @@
-version: "4.52"
+version: "5.0"
 description: ZoomIt. Screen zoom and annotation tool for technical presentations that include application demonstrations.
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
 license:
   identifier: Freeware
   url: https://docs.microsoft.com/en-us/sysinternals/license-terms
 url: https://download.sysinternals.com/files/ZoomIt.zip
-hash: a007bc37c8bea0b2a6c6b33ad07ac2eefe4cfd947300e4a919c7e4e1ccea27fc
+hash: e4da2bdc0cf106f6059d538000cfa4f839f97a076fb02d36d4ac190244eeac91
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
   $fin = "$sysint\ZoomIt"
