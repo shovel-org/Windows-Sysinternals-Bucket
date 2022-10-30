@@ -1,11 +1,11 @@
-version: "1.33"
+version: "1.35"
 description: AccessEnum. Quickly view user accesses to a tree, directories or keys.
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum
 license:
   identifier: Freeware
   url: https://docs.microsoft.com/en-us/sysinternals/license-terms
 url: https://download.sysinternals.com/files/AccessEnum.zip
-hash: a20e1e76bf9886118675fdc1902a0d90ef7d8dee68d0da6d1c13b20be2de6d72
+hash: fd7d370447e83f17c7c33668401e619bef4e7d1eff4818aed6d8a6b17e1df208
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
   $fin = "$sysint\Share Enum"
