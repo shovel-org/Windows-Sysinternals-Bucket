@@ -1,11 +1,11 @@
-version: "4.20"
+version: "4.21"
 description: NotMyFault. Crash, hang, and cause kernel memory leaks on Windows system.
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault
 license:
   identifier: Freeware
   url: https://docs.microsoft.com/en-us/sysinternals/license-terms
 url: https://download.sysinternals.com/files/NotMyFault.zip
-hash: f949c922cc790776512c2712c73f42961e5b7cf2326f6f435d5b3dd03b99179d
+hash: e26db5a12a6e1f83085cc40446a0b8fb6e322b989c46f4cb649a955682c15de4
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
   $fin = "$sysint\NotMyFault"
