@@ -1,17 +1,16 @@
 on:
   pull_request:
-    types: [opened]
-name: Pull requests
+    types: [ opened ]
+name: Pull Requests
 jobs:
   pullRequestHandler:
-    name: PullRequestHandler
+    name: Pull Request Validator
     runs-on: windows-latest
     steps:
     - uses: actions/checkout@main
-    - name: PullRequestHandler
-      uses: Ash258/Scoop-GithubActions@stable-win
+    - name: Pull Request Validation
+      uses: shovel-org/GithubActions@main
       env:
         GITH_EMAIL: cabera.jakub@gmail.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SHOVEL: '1'
         SCOOP_BRANCH: NEW
