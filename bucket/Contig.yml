@@ -1,11 +1,11 @@
-version: "1.81"
+version: "1.82"
 description: Contig. Optimizes individual files, or creates new files that are contiguous.
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/contig
 license:
   identifier: Freeware
   url: https://docs.microsoft.com/en-us/sysinternals/license-terms
 url: https://download.sysinternals.com/files/Contig.zip
-hash: dcdec06387efb2eedcd0f3ccaff557b49cf55fb6f44603fe5eb603ba3b2e6a15
+hash: 7f7fb8e36ef3718439e88efb0750de9d66c29053f5e367a6a79273d329165540
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
   $fin = "$sysint\Contig"
