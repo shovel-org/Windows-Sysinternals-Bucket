@@ -11,6 +11,5 @@ jobs:
     - name: Pull Request Validation
       uses: shovel-org/GithubActions@main
       env:
-        GITH_EMAIL: cabera.jakub@gmail.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SCOOP_BRANCH: NEW
