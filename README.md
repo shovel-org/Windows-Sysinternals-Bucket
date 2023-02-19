@@ -1,4 +1,4 @@
-# [Shovel](https://github.com/Ash258/Scoop-Core) Sysinternals Bucket [![Build status](https://img.shields.io/appveyor/ci/Ash258/Sysinternals-Bucket/main.svg?style=popout&logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/Ash258/sysinternals-bucket)
+# [Shovel](https://github.com/Ash258/Scoop-Core) Sysinternals Bucket [![Build status](https://img.shields.io/appveyor/ci/Ash258/Windows-Sysinternals-Bucket/main.svg?style=popout&logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/Ash258/windows-sysinternals-bucket)
 
 `shovel bucket add sysinternals` or using URL `shovel bucket add sysinternals 'https://github.com/shovel-org/Sysinternals-Bucket.git'`
 
