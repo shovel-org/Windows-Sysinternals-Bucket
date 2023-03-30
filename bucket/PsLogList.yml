@@ -1,4 +1,4 @@
-version: "2.81"
+version: "2.82"
 description: PsLogList. Local and remote event log viewer
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/psloglist
 license:
@@ -7,14 +7,14 @@ license:
 architecture:
   64bit:
     url: https://live.sysinternals.com/PsLogList64.exe
-    hash: e2587dd0aa50d75b545e2100fb2bab0b0607ff7e87b264339c7fb695b8572342
+    hash: 5e55b4caf47a248a10abd009617684e969dbe5c448d087ee8178262aaab68636
     bin:
     - PsLogList64.exe
     - - PsLogList64.exe
       - PsLogList
   32bit:
     url: https://live.sysinternals.com/PsLogList.exe
-    hash: 57dc27269669402152518dc7683e0a9cc372a3c3125efe1c7ecd8e8516f556f3
+    hash: dcdb9bd39b6014434190a9949dedf633726fdb470e95cc47cdaa47c1964b969f
     bin: PsLogList.exe
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
