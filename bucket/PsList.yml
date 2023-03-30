@@ -1,4 +1,4 @@
-version: "1.4"
+version: "1.41"
 description: PsList. Local and remote process information lister
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/pslist
 license:
@@ -7,14 +7,14 @@ license:
 architecture:
   64bit:
     url: https://live.sysinternals.com/PsList64.exe
-    hash: e6901e8423da3e54bab25f7c90f60d3979bfa5bb61bcc46059662736253b8c72
+    hash: d3247f03dcd7b9335344ebba76a0b92370f32f1cb0e480c734da52db2bd8df60
     bin:
     - PsList64.exe
     - - PsList64.exe
       - PsList
   32bit:
     url: https://live.sysinternals.com/PsList.exe
-    hash: 9927831e111ac61fd7645bf7efa1787db1a3e85b6f64a274ca04b213dc27fd08
+    hash: ed05f5d462767b3986583188000143f0eb24f7d89605523a28950e72e6b9039a
     bin: PsList.exe
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
