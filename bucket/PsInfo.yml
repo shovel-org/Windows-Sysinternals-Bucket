@@ -1,4 +1,4 @@
-version: "1.78"
+version: "1.79"
 description: PsInfo. Local and remote system information viewer
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/psinfo
 license:
@@ -7,14 +7,14 @@ license:
 architecture:
   64bit:
     url: https://live.sysinternals.com/PsInfo64.exe
-    hash: ef5cf80c8448bf0907c634a3251cc348b1d36bb5ad8f31f23b11d12aa7f63bcb
+    hash: de73b73eeb156f877de61f4a6975d06759292ed69f31aaf06c9811f3311e03e7
     bin:
     - PsInfo64.exe
     - - PsInfo64.exe
       - PsInfo
   32bit:
     url: https://live.sysinternals.com/PsInfo.exe
-    hash: 8f401dc021e20ff3abc64a2d346ef6a792a5643ca04ffd1f297e417532acaa06
+    hash: 951b1b5fd5cb13cde159cebc7c60465587e2061363d1d8847ab78b6c4fba7501
     bin: PsInfo.exe
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
