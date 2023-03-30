@@ -1,4 +1,4 @@
-version: "1.45"
+version: "1.46"
 description: PsGetSid. Translates SIDs to names and vice versa.
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/psgetsid
 license:
@@ -7,14 +7,14 @@ license:
 architecture:
   64bit:
     url: https://live.sysinternals.com/PsGetSid64.exe
-    hash: 952662a81384423abf2e9d78dad7cf8ec77d9b6c93d122b272211b3e6c7f8e49
+    hash: 201d8e77ccc2575d910d47042a986480b1da28cf0033e7ee726ad9d45ccf4daa
     bin:
     - PsGetsid64.exe
     - - PsGetsid64.exe
       - PsGetsid
   32bit:
     url: https://live.sysinternals.com/PsGetSid.exe
-    hash: a9e3a0d0c90d440f5a7da6dce021c554822416c513e383409e80387e1556a760
+    hash: a48ac157609888471bf8578fb8b2aef6b0068f7e0742fccf2e0e288b0b2cfdfb
     bin: PsGetSid.exe
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
