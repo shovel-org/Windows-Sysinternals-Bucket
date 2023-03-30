@@ -1,4 +1,4 @@
-version: "1.03"
+version: "1.04"
 description: PsFile. Lists files and directories opened remotely.
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/psfile
 license:
@@ -7,14 +7,14 @@ license:
 architecture:
   64bit:
     url: https://live.sysinternals.com/PsFile64.exe
-    hash: 033b81744e0bd4219a4d698894b8403bb67b525c96049cbfef34677d4d6fc85c
+    hash: be922312978a53c92a49fefd2c9f9cc098767b36f0e4d2e829d24725df65bc21
     bin:
     - PsFile64.exe
     - - PsFile64.exe
       - PsFile
   32bit:
     url: https://live.sysinternals.com/PsFile.exe
-    hash: 9d45453285ff3b4a41056317c96866d06481751307d703e3355b18d5eeb092ad
+    hash: 4243dc8b991f5f8b3c0f233ca2110a1e03a1d716c3f51e88faf1d59b8242d329
     bin: PsFile.exe
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
