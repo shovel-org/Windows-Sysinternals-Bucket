@@ -1,4 +1,4 @@
-version: "2.42"
+version: "2.43"
 description: PsExec. Execute processes on remote systems.
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/psexec
 license:
@@ -7,14 +7,14 @@ license:
 architecture:
   64bit:
     url: https://live.sysinternals.com/PsExec64.exe
-    hash: 5629ec60095102ac48dbae1898261d66a2ba4a7a29bd114087ba0a4393518659
+    hash: edfae1a69522f87b12c6dac3225d930e4848832e3c551ee1e7d31736bf4525ef
     bin:
     - PsExec64.exe
     - - PsExec64.exe
       - PsExec
   32bit:
     url: https://live.sysinternals.com/PsExec.exe
-    hash: 13d1579ffb64805b401836dc99a170cc2a8e2045eb541ca22686c4b58df61389
+    hash: 078163d5c16f64caa5a14784323fd51451b8c831c73396b967b4e35e6879937b
     bin: PsExec.exe
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
