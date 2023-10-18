@@ -1,11 +1,11 @@
-version: "3.33"
+version: "3.4"
 description: VMMap. Utility for processing virtual and physical memory of process.
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap
 license:
   identifier: Freeware
   url: https://docs.microsoft.com/en-us/sysinternals/license-terms
 url: https://download.sysinternals.com/files/VMMap.zip
-hash: 968cb87bdaa767f5c924473d36c2217e73ee64f3f49dd42865926f1cd8f90297
+hash: 71c9bb73f1ba63f69096cc5ab11aaad4f1969b060931f19c97f7ca6458ca1c1e
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
   $fin = "$sysint\VMMap"
