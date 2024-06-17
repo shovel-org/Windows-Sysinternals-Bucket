@@ -1,11 +1,11 @@
-version: "3.96"
+version: "4.0"
 description: ProcessMonitor. Monitors file system, registry, process, thread and DLL activity in real-time.
 homepage: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
 license:
   identifier: Freeware
   url: https://docs.microsoft.com/en-us/sysinternals/license-terms
 url: https://download.sysinternals.com/files/ProcessMonitor.zip
-hash: b556dcac41dc01f7310936fbd57d202eaecd00ff580398957b7125fd404728ae
+hash: f1552ee407acdd2ef8ec264ea4a992d63e8ccaadd1f2886948deefd39603fadc
 pre_install: |
   $sysint = 'HKCU:\SOFTWARE\Sysinternals'
   $fin = "$sysint\Process Monitor"
